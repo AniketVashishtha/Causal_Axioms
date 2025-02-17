@@ -1,0 +1,500 @@
+T causes Eg. e causes T. e causes ID. e causes 2EN. ID causes T. ID causes Eg. ID causes 2EN Are 2EN and T d-separated given {ID, e}?	Yes
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are j and qqF d-separated given {z3U}?	Yes
+a causes O. a causes Ly. IYZ causes O. IYZ causes a. Ly causes O. MSy causes O. MSy causes IYZ Are Ly and MSy d-separated given {a}?	Yes
+s5e causes a. d causes s5e. d causes LU. d causes a. bN7 causes s5e. bN7 causes LU. LU causes s5e Are LU and a d-separated given {d, s5e}?	Yes
+NwQ causes 1i. rSD causes NwQ. rSD causes AXE. rSD causes 1i. dY causes NwQ. dY causes AXE. dY causes 1i Are AXE and NwQ d-separated given {dY, rSD}?	Yes
+nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR Are nZk and s d-separated given {oFR, oo}?	Yes
+MUf causes h. MUf causes Viq. MUf causes Hz. Viq causes Hz. Viq causes t. Hz causes h. Hz causes t Are h and t d-separated given {Hz, MUf}?	Yes
+N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t Are ARz and wu d-separated given {N, t}?	Yes
+Uza causes A5G. Uza causes zLZ. Uza causes zC. Uza causes 7. zLZ causes zC. 7 causes zLZ. 7 causes zC Are 7 and A5G d-separated given {Uza, zC}?	Yes
+WK causes h. WK causes 5D. WK causes 66. h causes 5D. 7 causes WK. 7 causes h. 7 causes 66 Are 5D and 66 d-separated given {WK, h}?	Yes
+l causes u. l causes NLl. l causes i3o. u causes T9O. u causes i3o. NLl causes u. NLl causes i3o Are T9O and i3o d-separated given {NLl, u}?	Yes
+sr causes xTb. sr causes SE. sr causes D. xTb causes SE. qDn causes xTb. qDn causes SE. qDn causes D Are D and SE d-separated given {qDn, sr, xTb}?	Yes
+g causes DJ. cP causes g. cP causes xp. cP causes DJ. x0 causes g. x0 causes xp. x0 causes DJ Are g and xp d-separated given {DJ, cP, x0}?	Yes
+OG causes NCR. D4X causes NCR. El causes OG. El causes D4X. El causes NCR. 7 causes OG. 7 causes El Are 7 and D4X d-separated given {El, OG}?	Yes
+bzC causes h60. bzC causes Ru. Ru causes h60. Ru causes 2. y causes h60. y causes Ru. y causes 2 Are bzC and y d-separated?	Yes
+ZS0 causes pjI. ZS0 causes O. ZS0 causes m. O causes pjI. m causes O. h causes O. h causes m Are ZS0 and h d-separated?	Yes
+C causes KVM. C causes A. C causes KAM. 09 causes A. 09 causes KAM. KVM causes KAM. A causes KAM Are 09 and C d-separated?	Yes
+HSx causes 1v. HSx causes 4. Vx causes 1v. Vx causes 4. EKD causes HSx. EKD causes Vx. EKD causes 4 Are 1v and EKD d-separated given {HSx, Vx}?	Yes
+4 causes k. fR causes 69m. fR causes k. k causes 69m. cr causes 69m. cr causes 4. cr causes k Are cr and fR d-separated?	Yes
+cH causes L. to causes L. to causes cH. to causes GN2. GN2 causes L. GN2 causes cH. GN2 causes OAx Are L and OAx d-separated given {GN2, cH, to}?	Yes
+hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4 Are dt and hQ1 d-separated given {dn4}?	Yes
+W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc Are STg and zpc d-separated given {V, W, kl}?	Yes
+R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S Are O and R d-separated given {Rc, xR}?	Yes
+PqF causes u. q causes aW. q causes u. FiG causes PqF. FiG causes aW. FiG causes u. FiG causes q Are PqF and aW d-separated given {FiG}?	Yes
+i causes Y7i. BV causes Y7i. BV causes H9. BV causes od. od causes Y7i. od causes i. od causes H9 Are H9 and Y7i d-separated given {BV, od}?	Yes
+z causes k6b. UTK causes z. UTK causes k6b. UTK causes m. UTK causes K. m causes k6b. m causes K Are K and k6b d-separated given {UTK, m, z}?	Yes
+9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ Are WG and ypt d-separated given {9Z1}?	Yes
+Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4 Are Ekz and w5y d-separated given {PI}?	Yes
+5hf causes Yis. gm causes Yis. gm causes 9a. gm causes a. 9a causes Yis. a causes Yis. a causes 9a Are 5hf and gm d-separated?	Yes
+A causes 3. A causes skS. 14I causes 3. 14I causes skS. skS causes 3. H9 causes 3. H9 causes skS Are 14I and A d-separated given {H9}?	Yes
+hR1 causes lu. hR1 causes eu. yuw causes eu. yuw causes 7W. eu causes lu. 7W causes lu. 7W causes eu Are hR1 and yuw d-separated?	Yes
+YdQ causes 8dZ. YdQ causes j. m9 causes YdQ. m9 causes I. j causes 8dZ. I causes 8dZ. I causes j Are 8dZ and m9 d-separated given {I, YdQ}?	Yes
+T causes 3Wt. T causes Ahy. T causes A. Ahy causes A. xd8 causes T. xd8 causes Ahy. xd8 causes A Are 3Wt and xd8 d-separated given {A, Ahy, T}?	Yes
+vN causes S3Y. XYO causes S3Y. XYO causes xm. L causes vN. L causes S3Y. xm causes vN. xm causes S3Y Are L and XYO d-separated given {vN, xm}?	Yes
+Uz causes MHs. Uz causes SC. 7Y causes b. MHs causes 7Y. MHs causes b. MHs causes SC. SC causes 7Y Are Uz and b d-separated given {MHs, SC}?	Yes
+wE causes X. wE causes Ryk. 7H causes 9K. 7H causes Ryk. X causes 7H. X causes Ryk. Ryk causes 9K Are 7H and wE d-separated given {X}?	Yes
+lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9 Are Vr and j9 d-separated given {WV8, g, lpV}?	Yes
+qSE causes oj. WWq causes qSE. WWq causes oj. WWq causes h. k causes WWq. k causes oj. k causes h Are h and qSE d-separated given {WWq, k}?	Yes
+nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR Are nZk and oo d-separated given {s}?	Yes
+fsl causes 87. fsl causes yD. P causes 87. P causes yD. 87 causes yD. QgH causes 87. QgH causes yD Are P and QgH d-separated?	Yes
+U causes d. U causes zzv. zzv causes d. Jes causes d. Jes causes 72C. 72C causes d. 72C causes zzv Are Jes and U d-separated?	Yes
+Zsu causes 6Q. Zsu causes U9. kq2 causes 6Q. kq2 causes U9. U9 causes 6Q. h causes 6Q. h causes Zsu Are Zsu and kq2 d-separated?	Yes
+pAw causes gv1. pAw causes qE. qE causes A. qw causes A. qw causes gv1. qw causes pAw. qw causes qE Are A and pAw d-separated given {qE, qw}?	Yes
+Xf causes L. Xf causes 5. qd causes 5. L causes qd. L causes 5. q1 causes qd. q1 causes 5 Are Xf and q1 d-separated given {L, qd}?	Yes
+9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ Are WG and ypt d-separated given {9Z1, b2}?	Yes
+2 causes 1T. XS causes 2. XS causes 58. XS causes 1T. R causes 58. R causes 1T. 1T causes 58 Are 2 and R d-separated given {XS}?	Yes
+fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww Are cww and fCb d-separated given {k, w}?	Yes
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are gZ and j d-separated given {z3U}?	Yes
+WY causes R. V7 causes R. V7 causes WY. dQq causes R. dQq causes V7. EJL causes R. EJL causes dQq Are EJL and WY d-separated given {V7, dQq}?	Yes
+J causes skN. J causes 9. J causes dc. J causes CL. dc causes skN. CL causes skN. CL causes 9 Are 9 and dc d-separated given {CL, J, skN}?	Yes
+qaX causes Sr. qaX causes D. qaX causes F47. D causes Sr. 2c causes Sr. F47 causes Sr. F47 causes D Are 2c and F47 d-separated?	Yes
+I causes Jlt. I causes c. c causes Jlt. 5u causes I. 5u causes Jlt. 5u causes c. 5u causes 1Lz Are 1Lz and c d-separated given {5u, I, Jlt}?	Yes
+l4 causes 29d. eAy causes l4. eAy causes 29d. Jjn causes l4. Jjn causes 29d. 62d causes l4. 62d causes eAy Are 29d and 62d d-separated given {Jjn, eAy, l4}?	Yes
+CSz causes m0D. C causes m0D. t causes CSz. t causes C. t causes ET. ET causes CSz. ET causes m0D Are m0D and t d-separated given {C, CSz, ET}?	Yes
+bV causes x. bV causes z. GD4 causes x. GD4 causes k. z causes x. k causes x. k causes z Are GD4 and bV d-separated given {k, z}?	Yes
+gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G Are G and gL d-separated given {M}?	Yes
+3Vx causes F9. 3Vx causes h. 3Vx causes 5. h causes F9. 5 causes F9. 5 causes f. 5 causes h Are F9 and f d-separated given {5}?	Yes
+0 causes h. 0 causes rG5. h causes rG5. y0 causes 0. y0 causes h. y0 causes y. y0 causes rG5 Are 0 and y d-separated given {h, y0}?	Yes
+TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i Are TzJ and Y4i d-separated given {HS8, yL7}?	Yes
+0 causes h. 0 causes rG5. h causes rG5. y0 causes 0. y0 causes h. y0 causes y. y0 causes rG5 Are 0 and y d-separated given {h, y0}?	Yes
+T causes CY. T causes DgX. aC causes T. aC causes CY. aC causes 6k6. 6k6 causes DgX. DgX causes CY Are 6k6 and CY d-separated given {DgX, T, aC}?	Yes
+KvY causes W39. KvY causes p. 9i causes W39. 9i causes n. 9i causes p. p causes W39. p causes n Are KvY and n d-separated given {9i, W39, p}?	Yes
+1 causes ARF. UX causes 1. UX causes ARF. Kp causes 1. Kp causes UX. DSS causes 1. DSS causes ARF Are DSS and UX d-separated?	Yes
+Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8 Are 2bp and L d-separated given {Kv}?	Yes
+d causes 2u. d causes nE. 2u causes GSH. 2u causes nE. nE causes GSH. Z causes GSH. Z causes nE Are Z and d d-separated?	Yes
+k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0 Are ij and k0 d-separated given {T5, zF}?	Yes
+siz causes GK1. G causes GK1. y causes siz. y causes GK1. A causes siz. A causes G. A causes y Are A and GK1 d-separated given {G, siz, y}?	Yes
+z causes oe. 5 causes oe. 5 causes 0QN. 5 causes m2. 0QN causes oe. 0QN causes m2. m2 causes oe Are 5 and z d-separated given {0QN, m2}?	Yes
+l causes u. l causes NLl. l causes i3o. u causes T9O. u causes i3o. NLl causes u. NLl causes i3o Are T9O and l d-separated given {i3o, u}?	Yes
+N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t Are ARz and t d-separated given {N, wu}?	Yes
+7dW causes jHb. 6 causes jHb. x causes 7dW. x causes 6. x causes jHb. x causes tpF. tpF causes 7dW Are jHb and tpF d-separated given {7dW, x}?	Yes
+Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H Are Sx and g d-separated given {2PS, s}?	Yes
+3os causes M9T. 3os causes I. 3os causes lk. T8x causes M9T. T8x causes I. T8x causes lk. lk causes M9T Are I and lk d-separated given {3os, M9T, T8x}?	Yes
+i causes 7Ux. i causes X. i causes A. o causes 7Ux. o causes X. o causes A. A causes X Are 7Ux and X d-separated given {i, o}?	Yes
+YH causes vN. vN causes YD. pkY causes YH. pkY causes YD. pkY causes 7. 7 causes YH. 7 causes YD Are pkY and vN d-separated given {YH}?	Yes
+0 causes h. 0 causes rG5. h causes rG5. y0 causes 0. y0 causes h. y0 causes y. y0 causes rG5 Are 0 and y d-separated given {rG5, y0}?	Yes
+5 causes LX. 5 causes OBO. LX causes OBO. A causes 5. A causes LX. A causes OBO. OBO causes T Are A and T d-separated given {LX, OBO}?	Yes
+th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY Are lW and th d-separated?	Yes
+j causes TB. j causes nn. j causes xv. nn causes TB. nn causes xv. nn causes i. i causes TB Are i and xv d-separated given {nn}?	Yes
+2O causes O1U. 2O causes gC. b causes O1U. b causes 2O. b causes gC. b causes i. i causes gC Are O1U and gC d-separated given {2O, b}?	Yes
+a causes O. a causes Ly. IYZ causes O. IYZ causes a. Ly causes O. MSy causes O. MSy causes IYZ Are Ly and MSy d-separated given {IYZ, a}?	Yes
+tA causes P. tA causes JA3. tA causes IK. JA3 causes P. O causes P. IK causes P. IK causes O Are O and tA d-separated given {IK, JA3}?	Yes
+wE causes X. wE causes Ryk. 7H causes 9K. 7H causes Ryk. X causes 7H. X causes Ryk. Ryk causes 9K Are 9K and wE d-separated given {7H, Ryk, X}?	Yes
+Stu causes ECZ. Stu causes TZj. TZj causes ECZ. zrt causes Stu. zrt causes ECZ. zrt causes qFS. qFS causes ECZ Are TZj and qFS d-separated given {Stu}?	Yes
+Zsu causes 6Q. Zsu causes U9. kq2 causes 6Q. kq2 causes U9. U9 causes 6Q. h causes 6Q. h causes Zsu Are U9 and h d-separated given {Zsu}?	Yes
+5 causes LX. 5 causes OBO. LX causes OBO. A causes 5. A causes LX. A causes OBO. OBO causes T Are A and T d-separated given {OBO}?	Yes
+A causes 3. A causes skS. 14I causes 3. 14I causes skS. skS causes 3. H9 causes 3. H9 causes skS Are 14I and H9 d-separated given {A}?	Yes
+Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo Are 8wp and v d-separated given {s4f}?	Yes
+IL causes m. 8 causes A. 8 causes m. OkP causes IL. OkP causes A. A causes IL. A causes m Are OkP and m d-separated given {8, A, IL}?	Yes
+yow causes Rx. d causes Rx. d causes W5n. W5n causes yow. W5n causes Rx. 5 causes yow. 5 causes Rx Are 5 and W5n d-separated?	Yes
+K causes F0. D causes K. D causes F0. tXk causes F0. Ax causes K. Ax causes D. Ax causes tXk Are K and tXk d-separated given {Ax, D}?	Yes
+hiE causes aDa. hiE causes KKo. aDa causes KKo. NIW causes KKo. NIW causes 0DR. 0DR causes aDa. 0DR causes KKo Are 0DR and hiE d-separated?	Yes
+2 causes 1T. XS causes 2. XS causes 58. XS causes 1T. R causes 58. R causes 1T. 1T causes 58 Are 2 and 58 d-separated given {1T, R, XS}?	Yes
+8 causes 5w3. 8 causes rfV. 8 causes Qfs. 8 causes 7. Qfs causes rfV. Qfs causes 7. 7 causes rfV Are 5w3 and Qfs d-separated given {7, 8, rfV}?	Yes
+5hf causes Yis. gm causes Yis. gm causes 9a. gm causes a. 9a causes Yis. a causes Yis. a causes 9a Are 5hf and 9a d-separated given {a}?	Yes
+s causes C. s causes lAF. C causes a. lAF causes a. Mpf causes a. Mpf causes s. Mpf causes lAF Are C and lAF d-separated given {Mpf, s}?	Yes
+sxE causes mIw. sxE causes 8. mIw causes 2. jt causes mIw. jt causes 2. jt causes 8. 2 causes 8 Are 2 and sxE d-separated given {jt, mIw}?	Yes
+US causes Svv. US causes 3. K causes tMF. K causes Svv. K causes 3. Svv causes tMF. 3 causes tMF Are US and tMF d-separated given {3, K, Svv}?	Yes
+YdQ causes 8dZ. YdQ causes j. m9 causes YdQ. m9 causes I. j causes 8dZ. I causes 8dZ. I causes j Are I and YdQ d-separated given {m9}?	Yes
+KvH causes zOG. KvH causes Y. mg6 causes KvH. mg6 causes zOG. mg6 causes Y. mg6 causes w7m. w7m causes zOG Are Y and zOG d-separated given {KvH, mg6}?	Yes
+o causes e. o causes dR. z8b causes o. z8b causes FnR. e causes FnR. e causes dR. dR causes FnR Are dR and z8b d-separated given {o}?	Yes
+Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H Are 2PS and Sx d-separated given {g}?	Yes
+usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4 Are W and usv d-separated given {Mj, Wz}?	Yes
+tA causes P. tA causes JA3. tA causes IK. JA3 causes P. O causes P. IK causes P. IK causes O Are JA3 and O d-separated given {IK}?	Yes
+1U causes IS9. M causes 1U. M causes IS9. M causes 38. FHP causes 1U. 38 causes 1U. 38 causes FHP Are FHP and M d-separated given {38}?	Yes
+TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i Are TzJ and Y4i d-separated given {7, HS8, yL7}?	Yes
+o causes e. o causes dR. z8b causes o. z8b causes FnR. e causes FnR. e causes dR. dR causes FnR Are dR and z8b d-separated given {e, o}?	Yes
+yK causes nL. n causes Yx. n causes nL. n causes P. P causes yK. P causes Yx. P causes nL Are n and yK d-separated given {P, Yx}?	Yes
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are gZ and j d-separated given {qqF}?	Yes
+Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H Are Sx and g d-separated?	Yes
+3wq causes QU. B causes QU. Bd causes B. Bd causes QU. Z47 causes B. Z47 causes Bd. Z47 causes QU Are 3wq and B d-separated?	Yes
+T causes 3Wt. T causes Ahy. T causes A. Ahy causes A. xd8 causes T. xd8 causes Ahy. xd8 causes A Are 3Wt and A d-separated given {Ahy, T}?	Yes
+T causes CY. T causes DgX. aC causes T. aC causes CY. aC causes 6k6. 6k6 causes DgX. DgX causes CY Are DgX and aC d-separated given {6k6, T}?	Yes
+B7 causes EwE. zL causes EwE. zL causes B7. zL causes J. 1rP causes EwE. 1rP causes zL. 1rP causes J Are 1rP and B7 d-separated given {J, zL}?	Yes
+2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9 Are sr and xp d-separated given {2U, Kw}?	Yes
+wEX causes W. wEX causes wD. wD causes W. wD causes t. 58Y causes W. 58Y causes t. 58Y causes wD Are W and t d-separated given {58Y, wD}?	Yes
+qaX causes Sr. qaX causes D. qaX causes F47. D causes Sr. 2c causes Sr. F47 causes Sr. F47 causes D Are 2c and F47 d-separated given {D}?	Yes
+4 causes Z. j causes Z. j causes Zu. B7 causes 4. B7 causes j. B7 causes Zu. Zu causes Z Are B7 and Z d-separated given {4, Zu, j}?	Yes
+9E causes wzO. 9E causes Zz. 9E causes 0. ope causes wzO. ope causes Zz. ope causes 0. Zz causes wzO Are 0 and Zz d-separated given {9E, ope, wzO}?	Yes
+WK causes h. WK causes 5D. WK causes 66. h causes 5D. 7 causes WK. 7 causes h. 7 causes 66 Are 5D and 7 d-separated given {WK, h}?	Yes
+z causes k6b. UTK causes z. UTK causes k6b. UTK causes m. UTK causes K. m causes k6b. m causes K Are m and z d-separated given {K, UTK}?	Yes
+b61 causes VTT. gGy causes YM. gGy causes u. gGy causes VTT. u causes b61. u causes YM. u causes VTT Are b61 and gGy d-separated given {u}?	Yes
+Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H Are 2PS and Sx d-separated given {s}?	Yes
+MD causes fs. MD causes Ol. fs causes c. 8F causes MD. 8F causes fs. 8F causes c. c causes Ol Are MD and c d-separated given {8F, fs}?	Yes
+5 causes gr. 5 causes 2M. 4h causes gr. 4h causes Ef. 2M causes 4h. 2M causes gr. 2M causes Ef Are 5 and Ef d-separated given {2M, 4h}?	Yes
+O causes K. bRt causes K. bRt causes b. n causes bRt. n causes K. b causes O. b causes K Are O and n d-separated given {bRt}?	Yes
+0 causes 1. 0 causes TG. BKd causes TG. BKd causes 7H1. 7H1 causes 0. 7H1 causes 1. 7H1 causes TG Are 1 and TG d-separated given {0, 7H1, BKd}?	Yes
+U causes 7z. U causes ZSn. U causes e. t9 causes 7z. 7z causes e. ZSn causes 7z. ZSn causes e Are ZSn and t9 d-separated given {U}?	Yes
+Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo Are Fv and v d-separated given {8wp, s4f}?	Yes
+8 causes m8. 2R causes 8. 2R causes m8. m8 causes 1x. 9x9 causes 8. 9x9 causes 2R. 9x9 causes m8 Are 1x and 8 d-separated given {9x9, m8}?	Yes
+2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5 Are 2 and HdP d-separated given {2f2, P, Q5}?	Yes
+R5F causes 5. R5F causes X0l. R5F causes D8O. X0l causes 5. iB causes 5. iB causes X0l. D8O causes X0l Are R5F and iB d-separated?	Yes
+7Ba causes t. 7Ba causes O. 7Ba causes 7Q. O causes t. O causes 7Q. 7Q causes icb. 7Q causes t Are 7Ba and icb d-separated given {7Q, O}?	Yes
+jaA causes th. jaA causes iPi. th causes 0xe. F causes 0xe. iPi causes 0xe. iPi causes th. iPi causes F Are F and th d-separated given {iPi}?	Yes
+fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww Are cww and fCb d-separated given {TFt, k, w}?	Yes
+k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0 Are ij and vT d-separated given {T5, k0, zF}?	Yes
+Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i Are 1 and T d-separated given {Gct, i}?	Yes
+rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l Are ijn and rkJ d-separated given {OGh, e}?	Yes
+zc causes cE7. zc causes e. cE7 causes e. fUb causes cE7. fUb causes e. kB causes zc. kB causes e Are fUb and kB d-separated?	Yes
+qaX causes Sr. qaX causes D. qaX causes F47. D causes Sr. 2c causes Sr. F47 causes Sr. F47 causes D Are 2c and D d-separated given {F47}?	Yes
+l causes RLh. l causes SuX. RLh causes SuX. 8 causes RLh. 8 causes SuX. o causes RLh. o causes SuX Are 8 and l d-separated?	Yes
+pAw causes gv1. pAw causes qE. qE causes A. qw causes A. qw causes gv1. qw causes pAw. qw causes qE Are gv1 and qE d-separated given {pAw, qw}?	Yes
+T causes C0. T causes S. T causes HpL. T causes yW. C0 causes HpL. HpL causes S. yW causes HpL Are C0 and yW d-separated given {T}?	Yes
+fH causes Nk. 9 causes fH. 9 causes o. 9 causes Nk. 9 causes O. o causes Nk. o causes O Are O and fH d-separated given {9, Nk, o}?	Yes
+3wq causes QU. B causes QU. Bd causes B. Bd causes QU. Z47 causes B. Z47 causes Bd. Z47 causes QU Are 3wq and Bd d-separated given {B, Z47}?	Yes
+lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9 Are WV8 and lpV d-separated given {Vr}?	Yes
+h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA Are 3jA and h d-separated given {8v, BU, Vci}?	Yes
+ABk causes Qlc. 8B causes Qlc. 8B causes eN2. 8B causes N4. eN2 causes Qlc. eN2 causes N4. N4 causes Qlc Are ABk and N4 d-separated given {8B}?	Yes
+to causes ol. 7 causes to. 7 causes yy. 7 causes ol. yy causes g. ol causes g. ol causes yy Are to and yy d-separated given {7, g, ol}?	Yes
+Jz7 causes Ucy. Jz7 causes oeK. oeK causes Ucy. oeK causes WKd. XRx causes Ucy. XRx causes oeK. XRx causes WKd Are Jz7 and WKd d-separated given {XRx, oeK}?	Yes
+6 causes q. 6 causes dQ. N causes wS. N causes q. N causes dQ. wS causes q. wS causes dQ Are 6 and wS d-separated given {N}?	Yes
+N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t Are ARz and aQ d-separated given {N, t}?	Yes
+g9 causes r. mxl causes Wk. mxl causes r. Wk causes g9. Wk causes r. 2 causes g9. 2 causes mxl Are 2 and Wk d-separated given {mxl}?	Yes
+0b9 causes t5s. Jf causes 0b9. Jf causes 2H8. Jf causes t5s. gzr causes 0b9. gzr causes t5s. t5s causes 2H8 Are 2H8 and gzr d-separated given {Jf, t5s}?	Yes
+MUf causes h. MUf causes Viq. MUf causes Hz. Viq causes Hz. Viq causes t. Hz causes h. Hz causes t Are h and t d-separated given {Hz, MUf, Viq}?	Yes
+2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9 Are Kw and xp d-separated given {2U, sr}?	Yes
+h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA Are 8v and BU d-separated given {Vci, h}?	Yes
+kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4 Are c and k d-separated given {t}?	Yes
+R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S Are O and R d-separated given {Rc}?	Yes
+2O causes O1U. 2O causes gC. b causes O1U. b causes 2O. b causes gC. b causes i. i causes gC Are O1U and i d-separated given {2O, b}?	Yes
+2PD causes Gqw. 89 causes 2PD. 89 causes Gqw. T causes 2PD. T causes Gqw. PB causes 2PD. PB causes 89 Are Gqw and PB d-separated given {2PD, 89, T}?	Yes
+SMK causes E. eA causes SMK. eA causes Ps. eA causes E. Ps causes SMK. Ps causes jnd. E causes jnd Are SMK and jnd d-separated given {E, Ps, eA}?	Yes
+Y causes Q. Y causes N. Y causes 4. Q causes N. j causes N. j causes 4. 4 causes N Are Y and j d-separated?	Yes
+Enf causes KE. Enf causes 51. h2 causes KE. h2 causes 51. h2 causes ag4. 51 causes KE. 51 causes ag4 Are Enf and ag4 d-separated given {51, h2}?	Yes
+2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO Are GKj and N4s d-separated given {oi}?	Yes
+7Ba causes t. 7Ba causes O. 7Ba causes 7Q. O causes t. O causes 7Q. 7Q causes icb. 7Q causes t Are 7Ba and icb d-separated given {7Q, t}?	Yes
+90 causes Jm. 90 causes S. 90 causes U5. Jm causes S. wh causes S. wh causes U5. U5 causes S Are Jm and U5 d-separated given {90, wh}?	Yes
+9gk causes bKd. 9gk causes N. O causes 9gk. O causes bKd. O causes Qi. N causes bKd. Qi causes bKd Are N and Qi d-separated given {9gk, O}?	Yes
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are gZ and j d-separated given {qqF, z3U}?	Yes
+yJ causes my. yJ causes 9. XIl causes yJ. XIl causes 9. B causes my. B causes yJ. 9 causes my Are XIl and my d-separated given {9, B, yJ}?	Yes
+2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5 Are 2f2 and Q5 d-separated given {HdP, P}?	Yes
+Yg causes j. Yg causes gG. Yg causes t. Yg causes Q. gG causes j. gG causes Q. t causes j Are Q and j d-separated given {Yg, gG, t}?	Yes
+QO causes d. d causes A. u causes A. vzU causes QO. vzU causes A. vzU causes d. vzU causes u Are QO and u d-separated given {vzU}?	Yes
+W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc Are kl and zpc d-separated given {V, W}?	Yes
+k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0 Are ij and vT d-separated given {T5, k0, zF}?	Yes
+WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h Are 2h and 47 d-separated given {75, Uy, WAy}?	Yes
+UjT causes qye. UjT causes 7v2. 7v2 causes p. 7v2 causes qye. I causes p. I causes qye. I causes UjT Are 7v2 and I d-separated given {UjT}?	Yes
+wa causes T8. wa causes Fe. T8 causes w. Fe causes T8. acC causes wa. acC causes Fe. acC causes w Are w and wa d-separated given {T8, acC}?	Yes
+fD causes fym. fD causes PGV. fD causes 0. fD causes j. PGV causes fym. PGV causes 0. 0 causes fym Are 0 and j d-separated given {fD, fym}?	Yes
+6 causes 7k. 6 causes m3. k48 causes 6. k48 causes Fu7. k48 causes 7k. k48 causes m3. 7k causes m3 Are 6 and Fu7 d-separated given {7k, k48, m3}?	Yes
+1 causes ARF. UX causes 1. UX causes ARF. Kp causes 1. Kp causes UX. DSS causes 1. DSS causes ARF Are ARF and Kp d-separated given {1, DSS, UX}?	Yes
+wf causes 3I. u1 causes 3I. N3 causes u1. N3 causes 3I. N3 causes a. a causes u1. a causes 3I Are u1 and wf d-separated given {N3, a}?	Yes
+Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8 Are 2bp and L d-separated given {Kv}?	Yes
+WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h Are 2h and WAy d-separated given {75, Uy}?	Yes
+Z6C causes y. y causes q. 45y causes gQd. 45y causes Z6C. 45y causes y. 45y causes q. q causes gQd Are gQd and y d-separated given {45y, Z6C, q}?	Yes
+fI causes CTm. Ig causes fI. Ig causes o. Ig causes T2W. o causes fI. o causes CTm. T2W causes CTm Are T2W and fI d-separated given {Ig, o}?	Yes
+gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G Are G and x d-separated given {M, gL}?	Yes
+0 causes 7ll. 7ll causes R. U causes 7ll. U causes B. B causes R. B causes 0. B causes 7ll Are R and U d-separated given {7ll, B}?	Yes
+8 causes m8. 2R causes 8. 2R causes m8. m8 causes 1x. 9x9 causes 8. 9x9 causes 2R. 9x9 causes m8 Are 1x and 9x9 d-separated given {2R, 8, m8}?	Yes
+3 causes 6. l causes 6. l causes 3. e causes vd8. e causes 6. e causes 3. e causes l Are 6 and vd8 d-separated given {e}?	Yes
+sr causes xTb. sr causes SE. sr causes D. xTb causes SE. qDn causes xTb. qDn causes SE. qDn causes D Are qDn and sr d-separated?	Yes
+an causes 5E. an causes GI6. an causes 7Z. GI6 causes v. GI6 causes 5E. GI6 causes 7Z. 7Z causes 5E Are an and v d-separated given {5E, GI6}?	Yes
+RPQ causes Y. vot causes Y. 0 causes vot. 0 causes J. 0 causes Y. J causes RPQ. J causes vot Are RPQ and vot d-separated given {0, J}?	Yes
+fsl causes 87. fsl causes yD. P causes 87. P causes yD. 87 causes yD. QgH causes 87. QgH causes yD Are P and fsl d-separated given {QgH}?	Yes
+2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5 Are HdP and Q5 d-separated given {P}?	Yes
+k4c causes MUe. k4c causes Ih. Ih causes MUe. I causes MUe. I causes Ih. y causes k4c. y causes MUe Are I and y d-separated given {Ih, k4c}?	Yes
+M causes hYt. voZ causes muP. voZ causes M. voZ causes N5p. hYt causes muP. N5p causes muP. N5p causes hYt Are M and N5p d-separated given {voZ}?	Yes
+Qh causes c1. y causes Qh. y causes UF. y causes c1. ef causes UF. c1 causes UF. c1 causes ef Are Qh and UF d-separated given {c1, ef, y}?	Yes
+nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR Are oFR and oo d-separated given {nZk, s}?	Yes
+O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB Are O and s d-separated given {V, u}?	Yes
+Eo causes IC. Eo causes NF. Eo causes q2. NF causes IC. NF causes q2. NF causes 0. 0 causes IC Are 0 and q2 d-separated given {Eo, NF}?	Yes
+NwQ causes 1i. rSD causes NwQ. rSD causes AXE. rSD causes 1i. dY causes NwQ. dY causes AXE. dY causes 1i Are 1i and AXE d-separated given {NwQ, dY, rSD}?	Yes
+mRu causes h. tSv causes mRu. tSv causes A. A causes mRu. d causes mRu. d causes tSv. d causes A Are A and h d-separated given {mRu}?	Yes
+w1U causes D. w1U causes jhr. mAf causes D. mAf causes jhr. 8x causes w1U. 8x causes D. 8x causes jhr Are D and jhr d-separated given {8x, mAf, w1U}?	Yes
+th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY Are lW and uk d-separated?	Yes
+hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4 Are hQ1 and kVH d-separated given {dn4}?	Yes
+8 causes 5w3. 8 causes rfV. 8 causes Qfs. 8 causes 7. Qfs causes rfV. Qfs causes 7. 7 causes rfV Are 5w3 and rfV d-separated given {7, 8}?	Yes
+a causes 8v. a causes fg6. a causes nYK. fg6 causes 8v. fg6 causes nYK. nYK causes 5Hr. 5Hr causes 8v Are 5Hr and a d-separated given {nYK}?	Yes
+Eo causes IC. Eo causes NF. Eo causes q2. NF causes IC. NF causes q2. NF causes 0. 0 causes IC Are 0 and q2 d-separated given {NF}?	Yes
+G causes LS. G causes g. G causes b. 56 causes G. 56 causes LS. 56 causes b. b causes LS Are LS and g d-separated given {G}?	Yes
+XZf causes TT4. XZf causes k1. XZf causes thF. k1 causes TT4. k1 causes mzj. thF causes TT4. thF causes k1 Are XZf and mzj d-separated given {TT4, k1}?	Yes
+y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K Are 4 and y d-separated given {l, u}?	Yes
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are j and z3U d-separated given {gZ, qqF}?	Yes
+RE causes xFC. RE causes a. 6wL causes RE. 6wL causes xFC. 6wL causes 6. 6 causes RE. 6 causes xFC Are a and xFC d-separated given {6wL, RE}?	Yes
+qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw Are J and nw d-separated given {Iq, qoe, ro}?	Yes
+2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9 Are 2U and sr d-separated?	Yes
+ZB causes L. ZB causes 3. zdP causes L. Xg causes ZB. Xg causes L. Xg causes 3. L causes 3 Are 3 and zdP d-separated given {L, Xg, ZB}?	Yes
+g causes DJ. cP causes g. cP causes xp. cP causes DJ. x0 causes g. x0 causes xp. x0 causes DJ Are DJ and xp d-separated given {cP, g, x0}?	Yes
+D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N Are 9 and D d-separated given {5, N}?	Yes
+VN causes h. 9Y causes h. 9Y causes UbS. W causes VN. W causes h. W causes UbS. UbS causes VN Are UbS and h d-separated given {9Y, VN, W}?	Yes
+3 causes woq. 3 causes F. 3 causes fTR. 3 causes smX. woq causes fTR. woq causes smX. F causes fTR Are F and smX d-separated given {3, woq}?	Yes
+wE causes X. wE causes Ryk. 7H causes 9K. 7H causes Ryk. X causes 7H. X causes Ryk. Ryk causes 9K Are 9K and X d-separated given {7H, Ryk, wE}?	Yes
+1d causes 901. 1d causes B. B causes 901. B causes Z4Y. D causes 901. D causes Z4Y. Z4Y causes 901 Are B and D d-separated?	Yes
+z causes oe. 5 causes oe. 5 causes 0QN. 5 causes m2. 0QN causes oe. 0QN causes m2. m2 causes oe Are 0QN and z d-separated?	Yes
+usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4 Are Mj and W d-separated given {Wz}?	Yes
+R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S Are Rc and S d-separated given {O, R, xR}?	Yes
+Yg causes j. Yg causes gG. Yg causes t. Yg causes Q. gG causes j. gG causes Q. t causes j Are Q and t d-separated given {Yg, gG, j}?	Yes
+2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO Are FO and GKj d-separated given {2pd, oi}?	Yes
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are gZ and j d-separated?	Yes
+D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N Are 9 and h d-separated given {5, D, N}?	Yes
+P causes g. P causes d0v. g causes d0v. DxD causes P. DxD causes g. DxD causes d0v. 7Fr causes d0v Are 7Fr and g d-separated given {DxD}?	Yes
+mx causes u. k causes mx. k causes u. g2 causes mx. g2 causes k. 1 causes k. 1 causes u Are 1 and g2 d-separated?	Yes
+q1V causes eJ. Uzb causes q1V. Uzb causes eJ. Od causes q1V. Od causes 7oW. 7oW causes q1V. 7oW causes Uzb Are Od and eJ d-separated given {7oW, Uzb, q1V}?	Yes
+v causes 2. v causes Q. f causes 2. f causes v. f causes Q. Q causes 2. ez9 causes 2 Are ez9 and v d-separated given {f}?	Yes
+V causes Ty. V causes 1f. V causes Ao. Ty causes 7v. 1f causes Ty. 1f causes Ao. 1f causes 7v Are Ao and Ty d-separated given {1f, 7v, V}?	Yes
+Uza causes A5G. Uza causes zLZ. Uza causes zC. Uza causes 7. zLZ causes zC. 7 causes zLZ. 7 causes zC Are 7 and A5G d-separated given {Uza}?	Yes
+kP8 causes C. U causes kP8. U causes C. USN causes kP8. USN causes Jau. USN causes C. Jau causes U Are Jau and kP8 d-separated given {C, U, USN}?	Yes
+Qh causes c1. y causes Qh. y causes UF. y causes c1. ef causes UF. c1 causes UF. c1 causes ef Are Qh and ef d-separated given {c1, y}?	Yes
+Z6C causes y. y causes q. 45y causes gQd. 45y causes Z6C. 45y causes y. 45y causes q. q causes gQd Are gQd and y d-separated given {45y, q}?	Yes
+O causes K. bRt causes K. bRt causes b. n causes bRt. n causes K. b causes O. b causes K Are b and n d-separated given {bRt}?	Yes
+I causes ZJ. 2o causes ZJ. 2o causes rYL. 2o causes Q9. Q9 causes I. Q9 causes ZJ. Q9 causes rYL Are ZJ and rYL d-separated given {2o, I, Q9}?	Yes
+bJ9 causes s. pS causes 7. cp causes pS. cp causes 7. s causes pS. s causes cp. s causes 7 Are bJ9 and pS d-separated given {s}?	Yes
+nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR Are nZk and oo d-separated given {s}?	Yes
+N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t Are ARz and wu d-separated given {N}?	Yes
+bJ9 causes s. pS causes 7. cp causes pS. cp causes 7. s causes pS. s causes cp. s causes 7 Are bJ9 and cp d-separated given {7, pS, s}?	Yes
+23 causes u. 23 causes l. u causes l. 0pH causes 23. 0pH causes zv. zv causes 23. zv causes u Are 0pH and l d-separated given {23, u, zv}?	Yes
+y1X causes j3E. y1X causes PN. H18 causes y1X. H18 causes Vs. H18 causes j3E. Vs causes j3E. j3E causes PN Are PN and Vs d-separated given {j3E, y1X}?	Yes
+E causes u. a causes 1. a causes u. a causes ijd. 1 causes u. 1 causes ijd. ijd causes u Are 1 and E d-separated given {a}?	Yes
+IMn causes QEG. BK causes IMn. BK causes QEG. v causes IMn. v causes QEG. M causes v. M causes QEG Are BK and M d-separated given {v}?	Yes
+gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G Are gL and t d-separated given {M, x}?	Yes
+usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4 Are W and r4 d-separated given {Mj, usv}?	No
+2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO Are N4s and oi d-separated given {2pd, FO, GKj}?	No
+G causes j. o2 causes 8. o2 causes G. o2 causes j. o2 causes Fe. Fe causes 8. Fe causes j Are 8 and o2 d-separated given {Fe, G}?	No
+j causes TB. j causes nn. j causes xv. nn causes TB. nn causes xv. nn causes i. i causes TB Are TB and i d-separated given {j, nn}?	No
+dF causes 6b. dF causes PR. Jm causes 6b. Jm causes dF. cFn causes 6b. cFn causes dF. cFn causes PR Are PR and dF d-separated given {Jm, cFn}?	No
+OTt causes di. di causes Y. d causes Y. d causes di. eH causes Y. eH causes di. eH causes d Are Y and eH d-separated given {di}?	No
+yJ causes my. yJ causes 9. XIl causes yJ. XIl causes 9. B causes my. B causes yJ. 9 causes my Are 9 and XIl d-separated given {B, yJ}?	No
+Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8 Are Kv and L d-separated?	No
+y1X causes j3E. y1X causes PN. H18 causes y1X. H18 causes Vs. H18 causes j3E. Vs causes j3E. j3E causes PN Are Vs and j3E d-separated given {H18}?	No
+Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i Are 3R and i d-separated given {1}?	No
+2PB causes WGZ. 2PB causes 3f. WGZ causes 3f. Q causes 2PB. Q causes WGZ. Q causes 3f. a causes Q Are 2PB and Q d-separated?	No
+qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw Are nw and ro d-separated?	No
+sr causes xTb. sr causes SE. sr causes D. xTb causes SE. qDn causes xTb. qDn causes SE. qDn causes D Are D and sr d-separated given {qDn, xTb}?	No
+o causes e. o causes dR. z8b causes o. z8b causes FnR. e causes FnR. e causes dR. dR causes FnR Are FnR and z8b d-separated given {dR, e, o}?	No
+g causes no. s causes g. ixl causes g. ixl causes s. 2kn causes g. 2kn causes s. 2kn causes no Are 2kn and no d-separated given {g, s}?	No
+l causes u. l causes NLl. l causes i3o. u causes T9O. u causes i3o. NLl causes u. NLl causes i3o Are i3o and u d-separated given {l}?	No
+U causes FR4. U causes c. U causes ju. FR4 causes t. t causes ju. c causes FR4. c causes t Are U and t d-separated given {c, ju}?	No
+lQ causes K. zug causes K. zug causes wpr. zug causes bI. K causes wpr. K causes bI. bI causes wpr Are K and bI d-separated given {lQ, zug}?	No
+gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO Are gbg and kk d-separated given {p}?	No
+sxE causes mIw. sxE causes 8. mIw causes 2. jt causes mIw. jt causes 2. jt causes 8. 2 causes 8 Are 2 and mIw d-separated given {8}?	No
+2 causes 1T. XS causes 2. XS causes 58. XS causes 1T. R causes 58. R causes 1T. 1T causes 58 Are 1T and R d-separated given {2, XS}?	No
+1d causes 901. 1d causes B. B causes 901. B causes Z4Y. D causes 901. D causes Z4Y. Z4Y causes 901 Are 901 and Z4Y d-separated given {1d, B}?	No
+9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ Are 9Z1 and oJ d-separated given {WG, b2}?	No
+D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N Are 5 and h d-separated?	No
+Y causes Q. Y causes N. Y causes 4. Q causes N. j causes N. j causes 4. 4 causes N Are Q and j d-separated given {4, N}?	No
+WK causes h. WK causes 5D. WK causes 66. h causes 5D. 7 causes WK. 7 causes h. 7 causes 66 Are 7 and WK d-separated given {5D, 66}?	No
+lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9 Are WV8 and lpV d-separated given {Vr, g}?	No
+WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h Are 47 and WAy d-separated given {2h}?	No
+3os causes M9T. 3os causes I. 3os causes lk. T8x causes M9T. T8x causes I. T8x causes lk. lk causes M9T Are 3os and T8x d-separated given {I, M9T}?	No
+bJ9 causes s. pS causes 7. cp causes pS. cp causes 7. s causes pS. s causes cp. s causes 7 Are cp and s d-separated given {7, pS}?	No
+Uz causes MHs. Uz causes SC. 7Y causes b. MHs causes 7Y. MHs causes b. MHs causes SC. SC causes 7Y Are Uz and b d-separated given {7Y}?	No
+w6 causes I. CW causes w6. CW causes D. CW causes q0. CW causes I. I causes D. I causes q0 Are D and I d-separated given {CW}?	No
+Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4 Are Ekz and w5y d-separated given {PI, d4}?	No
+R causes o5e. R causes 4. LR9 causes 4. LR9 causes y. o5e causes 4. y causes R. y causes o5e Are 4 and R d-separated given {LR9, o5e, y}?	No
+D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N Are 9 and N d-separated given {5, h}?	No
+Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8 Are G and Kv d-separated given {2bp, L}?	No
+2PD causes Gqw. 89 causes 2PD. 89 causes Gqw. T causes 2PD. T causes Gqw. PB causes 2PD. PB causes 89 Are Gqw and PB d-separated given {T}?	No
+MUf causes h. MUf causes Viq. MUf causes Hz. Viq causes Hz. Viq causes t. Hz causes h. Hz causes t Are MUf and Viq d-separated given {Hz, h, t}?	No
+l causes RLh. l causes SuX. RLh causes SuX. 8 causes RLh. 8 causes SuX. o causes RLh. o causes SuX Are SuX and l d-separated given {RLh, o}?	No
+R causes o5e. R causes 4. LR9 causes 4. LR9 causes y. o5e causes 4. y causes R. y causes o5e Are 4 and R d-separated given {LR9}?	No
+Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo Are s4f and v d-separated given {8wp, Fv, mo}?	No
+kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4 Are c and t d-separated given {kU}?	No
+7 causes hlG. 7 causes Ckb. 7 causes 4. g2 causes hlG. hlG causes 4. Ckb causes g2. Ckb causes 4 Are 4 and Ckb d-separated given {7, hlG}?	No
+IUK causes k. IUK causes NN. IUK causes R. k causes Dg. NN causes k. NN causes Dg. R causes k Are R and k d-separated given {Dg}?	No
+qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw Are J and qoe d-separated given {nw}?	No
+t causes y. D causes t. D causes y. D causes k. k causes y. j causes t. j causes k Are j and t d-separated given {D, y}?	No
+0 causes 7ll. 7ll causes R. U causes 7ll. U causes B. B causes R. B causes 0. B causes 7ll Are 7ll and R d-separated given {0, B, U}?	No
+r causes PFx. r causes 4. Y3 causes 4. PFx causes 4. q causes r. q causes Y3. q causes PFx Are Y3 and q d-separated given {4}?	No
+R5F causes 5. R5F causes X0l. R5F causes D8O. X0l causes 5. iB causes 5. iB causes X0l. D8O causes X0l Are D8O and iB d-separated given {5, R5F, X0l}?	No
+Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8 Are G and L d-separated?	No
+7I causes q. 7I causes iWQ. 7I causes GEP. iWQ causes q. GEP causes q. E causes q. E causes GEP Are 7I and E d-separated given {GEP}?	No
+K causes F0. D causes K. D causes F0. tXk causes F0. Ax causes K. Ax causes D. Ax causes tXk Are D and F0 d-separated given {K}?	No
+c causes I31. r causes c. Hef causes I31. Zk causes I31. Zk causes c. Zk causes r. Zk causes Hef Are I31 and c d-separated given {Zk}?	No
+Bwh causes sV. Bwh causes x7h. Bwh causes T. Bwh causes Bb. T causes sV. T causes x7h. Bb causes T Are Bwh and T d-separated?	No
+E causes u. a causes 1. a causes u. a causes ijd. 1 causes u. 1 causes ijd. ijd causes u Are E and a d-separated given {ijd, u}?	No
+qer causes U85. qer causes U. U85 causes U. l causes qer. l causes U. 0 causes qer. 0 causes U85 Are U85 and qer d-separated?	No
+E4 causes GnR. E4 causes 02. 02 causes GnR. 02 causes 1h. 0m causes E4. 0m causes GnR. 0m causes 1h Are 02 and E4 d-separated given {1h}?	No
+N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t Are ARz and N d-separated given {t, wu}?	No
+Z6C causes y. y causes q. 45y causes gQd. 45y causes Z6C. 45y causes y. 45y causes q. q causes gQd Are 45y and q d-separated given {gQd, y}?	No
+YH causes vN. vN causes YD. pkY causes YH. pkY causes YD. pkY causes 7. 7 causes YH. 7 causes YD Are 7 and pkY d-separated?	No
+2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO Are 2pd and FO d-separated given {GKj, N4s}?	No
+9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ Are 9Z1 and b2 d-separated given {ypt}?	No
+HSx causes 1v. HSx causes 4. Vx causes 1v. Vx causes 4. EKD causes HSx. EKD causes Vx. EKD causes 4 Are 1v and EKD d-separated?	No
+6uQ causes 2OB. 1z causes 6uQ. 1z causes lT. 2OB causes lT. zT causes 6uQ. zT causes 1z. zT causes lT Are 1z and zT d-separated given {2OB, 6uQ}?	No
+U causes 7z. U causes ZSn. U causes e. t9 causes 7z. 7z causes e. ZSn causes 7z. ZSn causes e Are U and ZSn d-separated given {7z, e, t9}?	No
+kP8 causes C. U causes kP8. U causes C. USN causes kP8. USN causes Jau. USN causes C. Jau causes U Are Jau and kP8 d-separated given {USN}?	No
+90 causes Jm. 90 causes S. 90 causes U5. Jm causes S. wh causes S. wh causes U5. U5 causes S Are 90 and Jm d-separated?	No
+3 causes mG. 3 causes RoY. vwc causes 3. vwc causes RoY. k causes mG. k causes 3. k causes RoY Are 3 and vwc d-separated given {mG}?	No
+Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i Are 1 and 3R d-separated given {Gct}?	No
+c causes eU. c causes 3lr. 1V causes sX. 1V causes 3lr. eU causes 1V. eU causes sX. 3lr causes sX Are 1V and eU d-separated?	No
+4n causes F. F causes G7o. E causes 4n. E causes G7o. E causes F. E causes 0M. 0M causes G7o Are 4n and F d-separated given {G7o}?	No
+th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY Are lW and t d-separated?	No
+wEX causes W. wEX causes wD. wD causes W. wD causes t. 58Y causes W. 58Y causes t. 58Y causes wD Are W and wD d-separated?	No
+1U causes IS9. M causes 1U. M causes IS9. M causes 38. FHP causes 1U. 38 causes 1U. 38 causes FHP Are 1U and 38 d-separated given {IS9, M}?	No
+L causes F. L causes 0uw. L causes 1AQ. L causes U. F causes 1AQ. 0uw causes 1AQ. U causes 1AQ Are 0uw and F d-separated given {1AQ, L}?	No
+sgS causes Swe. sgS causes OO. Swe causes 9WX. Swe causes OO. 7n causes Swe. 7n causes OO. OO causes 9WX Are 7n and OO d-separated given {9WX, Swe, sgS}?	No
+Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4 Are PI and w5y d-separated?	No
+Jz7 causes Ucy. Jz7 causes oeK. oeK causes Ucy. oeK causes WKd. XRx causes Ucy. XRx causes oeK. XRx causes WKd Are XRx and oeK d-separated given {Jz7, Ucy, WKd}?	No
+O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB Are GB and O d-separated given {V, s}?	No
+dF causes 6b. dF causes PR. Jm causes 6b. Jm causes dF. cFn causes 6b. cFn causes dF. cFn causes PR Are 6b and cFn d-separated given {dF}?	No
+hc4 causes rK. hc4 causes u. rK causes i. u causes i. u causes rK. 9N causes hc4. 9N causes rK Are 9N and u d-separated?	No
+gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO Are IvO and kk d-separated given {p}?	No
+w1U causes D. w1U causes jhr. mAf causes D. mAf causes jhr. 8x causes w1U. 8x causes D. 8x causes jhr Are jhr and w1U d-separated given {8x}?	No
+hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4 Are dn4 and hQ1 d-separated given {dt, kVH}?	No
+h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA Are 8v and h d-separated given {3jA, BU}?	No
+R5F causes 5. R5F causes X0l. R5F causes D8O. X0l causes 5. iB causes 5. iB causes X0l. D8O causes X0l Are 5 and X0l d-separated given {R5F, iB}?	No
+O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB Are O and V d-separated given {GB, s}?	No
+w1U causes D. w1U causes jhr. mAf causes D. mAf causes jhr. 8x causes w1U. 8x causes D. 8x causes jhr Are mAf and w1U d-separated given {8x, D, jhr}?	No
+b causes os. 0 causes b. 0 causes os. 86 causes b. 86 causes 0. 86 causes os. 2G causes b Are 2G and b d-separated given {0, 86}?	No
+i causes Y7i. BV causes Y7i. BV causes H9. BV causes od. od causes Y7i. od causes i. od causes H9 Are BV and Y7i d-separated given {H9}?	No
+Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8 Are 2bp and L d-separated given {x8}?	No
+23 causes u. 23 causes l. u causes l. 0pH causes 23. 0pH causes zv. zv causes 23. zv causes u Are 0pH and zv d-separated given {23, l, u}?	No
+M causes hYt. voZ causes muP. voZ causes M. voZ causes N5p. hYt causes muP. N5p causes muP. N5p causes hYt Are N5p and hYt d-separated?	No
+ntU causes nH4. ntU causes Dh1. aX causes Dh1. Dh1 causes nH4. B causes ntU. B causes nH4. B causes aX Are Dh1 and ntU d-separated given {B, nH4}?	No
+A causes 3. A causes skS. 14I causes 3. 14I causes skS. skS causes 3. H9 causes 3. H9 causes skS Are 14I and 3 d-separated?	No
+IL causes m. 8 causes A. 8 causes m. OkP causes IL. OkP causes A. A causes IL. A causes m Are IL and m d-separated given {8, OkP}?	No
+aC causes 9. aC causes rAI. 9 causes c. rAI causes 9. rAI causes W. W causes c. W causes 9 Are 9 and rAI d-separated?	No
+fsl causes 87. fsl causes yD. P causes 87. P causes yD. 87 causes yD. QgH causes 87. QgH causes yD Are 87 and yD d-separated given {P, QgH}?	No
+Stu causes ECZ. Stu causes TZj. TZj causes ECZ. zrt causes Stu. zrt causes ECZ. zrt causes qFS. qFS causes ECZ Are qFS and zrt d-separated given {ECZ, Stu}?	No
+Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo Are mo and s4f d-separated given {8wp, v}?	No
+Owh causes ih. x causes Ho. x causes ih. O causes Owh. O causes x. O causes ih. ih causes Ho Are O and Owh d-separated?	No
+L causes F. L causes 0uw. L causes 1AQ. L causes U. F causes 1AQ. 0uw causes 1AQ. U causes 1AQ Are F and L d-separated given {0uw, U}?	No
+HSx causes 1v. HSx causes 4. Vx causes 1v. Vx causes 4. EKD causes HSx. EKD causes Vx. EKD causes 4 Are EKD and Vx d-separated given {1v, 4}?	No
+O causes m. m6V causes O. m6V causes 2T. m6V causes dZ. m6V causes m. 2T causes O. 2T causes m Are m and m6V d-separated?	No
+kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4 Are k and t d-separated given {V4, c}?	No
+6o causes Qq. 6o causes JY. Qq causes c2K. J causes 6o. J causes c2K. JY causes Qq. JY causes c2K Are 6o and JY d-separated given {J, c2K}?	No
+UcA causes iqn. UcA causes L. ER causes UcA. ER causes iqn. ER causes L. 9eF causes UcA. 9eF causes L Are 9eF and L d-separated given {UcA}?	No
+I causes ZJ. 2o causes ZJ. 2o causes rYL. 2o causes Q9. Q9 causes I. Q9 causes ZJ. Q9 causes rYL Are 2o and Q9 d-separated given {I, ZJ}?	No
+ntU causes nH4. ntU causes Dh1. aX causes Dh1. Dh1 causes nH4. B causes ntU. B causes nH4. B causes aX Are nH4 and ntU d-separated given {Dh1, aX}?	No
+3 causes 6. l causes 6. l causes 3. e causes vd8. e causes 6. e causes 3. e causes l Are 3 and vd8 d-separated given {6, l}?	No
+k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0 Are T5 and k0 d-separated given {vT, zF}?	No
+ksQ causes n. 6b6 causes ksQ. 6b6 causes 8. 6b6 causes n. 8 causes 5Bc. 8 causes n. 5Bc causes n Are 5Bc and ksQ d-separated?	No
+q1V causes eJ. Uzb causes q1V. Uzb causes eJ. Od causes q1V. Od causes 7oW. 7oW causes q1V. 7oW causes Uzb Are Od and q1V d-separated given {7oW, Uzb}?	No
+h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA Are BU and Vci d-separated given {8v, h}?	No
+Zue causes 3dW. Zue causes p8. M causes 3dW. M causes p8. 3dW causes p8. lW causes Zue. lW causes 3dW Are M and lW d-separated given {3dW}?	No
+e causes 26. e causes h. Gs causes 26. DD causes Gs. DD causes 26. DD causes h. h causes Gs Are DD and Gs d-separated given {e, h}?	No
+aC causes 9. aC causes rAI. 9 causes c. rAI causes 9. rAI causes W. W causes c. W causes 9 Are 9 and c d-separated given {W, rAI}?	No
+q1V causes eJ. Uzb causes q1V. Uzb causes eJ. Od causes q1V. Od causes 7oW. 7oW causes q1V. 7oW causes Uzb Are 7oW and eJ d-separated given {q1V}?	No
+qSE causes oj. WWq causes qSE. WWq causes oj. WWq causes h. k causes WWq. k causes oj. k causes h Are WWq and h d-separated given {k, oj, qSE}?	No
+OTt causes di. di causes Y. d causes Y. d causes di. eH causes Y. eH causes di. eH causes d Are di and eH d-separated given {d}?	No
+QO causes d. d causes A. u causes A. vzU causes QO. vzU causes A. vzU causes d. vzU causes u Are QO and d d-separated given {u, vzU}?	No
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are j and z3U d-separated given {RQ, gZ, qqF}?	No
+9gk causes bKd. 9gk causes N. O causes 9gk. O causes bKd. O causes Qi. N causes bKd. Qi causes bKd Are Qi and bKd d-separated given {O}?	No
+9gk causes bKd. 9gk causes N. O causes 9gk. O causes bKd. O causes Qi. N causes bKd. Qi causes bKd Are N and bKd d-separated?	No
+wEX causes W. wEX causes wD. wD causes W. wD causes t. 58Y causes W. 58Y causes t. 58Y causes wD Are 58Y and t d-separated given {wEX}?	No
+US causes Svv. US causes 3. K causes tMF. K causes Svv. K causes 3. Svv causes tMF. 3 causes tMF Are K and tMF d-separated given {3, Svv, US}?	No
+ALU causes W8G. ALU causes i. nK causes W8G. nK causes i. lm causes ALU. lm causes W8G. i causes W8G Are W8G and lm d-separated given {ALU, i}?	No
+Zsu causes 6Q. Zsu causes U9. kq2 causes 6Q. kq2 causes U9. U9 causes 6Q. h causes 6Q. h causes Zsu Are Zsu and kq2 d-separated given {6Q, U9}?	No
+cH causes L. to causes L. to causes cH. to causes GN2. GN2 causes L. GN2 causes cH. GN2 causes OAx Are OAx and to d-separated given {L}?	No
+U causes d. U causes zzv. zzv causes d. Jes causes d. Jes causes 72C. 72C causes d. 72C causes zzv Are d and zzv d-separated given {72C, Jes, U}?	No
+6qr causes F4Q. 6qr causes 8. lRx causes 6qr. lRx causes 8. F4Q causes 8. Eb causes lRx. Eb causes F4Q Are Eb and lRx d-separated given {6qr}?	No
+h causes q. h causes HP. h causes Rn. d causes q. d causes HP. Rn causes d. Rn causes HP Are Rn and h d-separated given {HP}?	No
+kP8 causes C. U causes kP8. U causes C. USN causes kP8. USN causes Jau. USN causes C. Jau causes U Are U and kP8 d-separated given {Jau, USN}?	No
+21E causes o. 21E causes 4E. 4E causes o. s4 causes 21E. sI causes o. sI causes 21E. sI causes 4E Are 21E and sI d-separated given {o, s4}?	No
+3Vx causes F9. 3Vx causes h. 3Vx causes 5. h causes F9. 5 causes F9. 5 causes f. 5 causes h Are 5 and h d-separated given {3Vx, f}?	No
+dF causes 6b. dF causes PR. Jm causes 6b. Jm causes dF. cFn causes 6b. cFn causes dF. cFn causes PR Are 6b and PR d-separated given {dF}?	No
+y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K Are l and y d-separated?	No
+k causes HVI. k causes gz. k causes x. 3 causes HVI. 3 causes gz. 3 causes x. x causes HVI Are HVI and x d-separated given {3, gz, k}?	No
+21E causes o. 21E causes 4E. 4E causes o. s4 causes 21E. sI causes o. sI causes 21E. sI causes 4E Are 21E and 4E d-separated given {o, s4, sI}?	No
+c causes I31. r causes c. Hef causes I31. Zk causes I31. Zk causes c. Zk causes r. Zk causes Hef Are I31 and c d-separated?	No
+WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h Are 47 and 75 d-separated given {WAy}?	No
+v9v causes AE. FvQ causes v9v. FvQ causes AE. 0CN causes gAM. gAM causes v9v. gAM causes FvQ. gAM causes AE Are gAM and v9v d-separated given {0CN, AE, FvQ}?	No
+IMn causes QEG. BK causes IMn. BK causes QEG. v causes IMn. v causes QEG. M causes v. M causes QEG Are M and QEG d-separated given {BK, v}?	No
+O causes mO. O causes ZHP. O causes CR. ZHP causes mO. s5 causes mO. s5 causes O. s5 causes CR Are CR and s5 d-separated given {mO}?	No
+iw causes H. rsN causes iw. rsN causes Bh. Bh causes iw. Bh causes H. W causes Bh. W causes H Are H and W d-separated given {Bh}?	No
+O causes mO. O causes ZHP. O causes CR. ZHP causes mO. s5 causes mO. s5 causes O. s5 causes CR Are CR and O d-separated given {ZHP, mO, s5}?	No
+Zue causes 3dW. Zue causes p8. M causes 3dW. M causes p8. 3dW causes p8. lW causes Zue. lW causes 3dW Are 3dW and M d-separated given {Zue, lW, p8}?	No
+h causes vJ. To1 causes h. To1 causes D. KLF causes vJ. KLF causes D. D causes h. D causes vJ Are KLF and h d-separated given {D, vJ}?	No
+fD causes fym. fD causes PGV. fD causes 0. fD causes j. PGV causes fym. PGV causes 0. 0 causes fym Are PGV and fD d-separated given {j}?	No
+2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9 Are 2U and xp d-separated given {9}?	No
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are RQ and qqF d-separated given {z3U}?	No
+lQ causes K. zug causes K. zug causes wpr. zug causes bI. K causes wpr. K causes bI. bI causes wpr Are lQ and zug d-separated given {wpr}?	No
+qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw Are Iq and nw d-separated given {J}?	No
+kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4 Are kU and t d-separated given {V4, k}?	No
+T causes C0. T causes S. T causes HpL. T causes yW. C0 causes HpL. HpL causes S. yW causes HpL Are C0 and yW d-separated given {S}?	No
+iw causes H. rsN causes iw. rsN causes Bh. Bh causes iw. Bh causes H. W causes Bh. W causes H Are W and iw d-separated?	No
+Xf causes L. Xf causes 5. qd causes 5. L causes qd. L causes 5. q1 causes qd. q1 causes 5 Are L and Xf d-separated given {5}?	No
+i8 causes yE. i8 causes C. FvZ causes i8. FvZ causes yE. PZl causes i8. PZl causes FvZ. C causes yE Are C and yE d-separated given {FvZ, PZl}?	No
+5 causes l. 5 causes G. G causes l. b causes 5. b causes G. g causes l. g causes G Are G and l d-separated?	No
+NwQ causes 1i. rSD causes NwQ. rSD causes AXE. rSD causes 1i. dY causes NwQ. dY causes AXE. dY causes 1i Are 1i and AXE d-separated given {NwQ, rSD}?	No
+3Vx causes F9. 3Vx causes h. 3Vx causes 5. h causes F9. 5 causes F9. 5 causes f. 5 causes h Are 3Vx and F9 d-separated given {h}?	No
+v causes 2. v causes Q. f causes 2. f causes v. f causes Q. Q causes 2. ez9 causes 2 Are Q and ez9 d-separated given {2, f, v}?	No
+2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5 Are P and Q5 d-separated?	No
+E4 causes GnR. E4 causes 02. 02 causes GnR. 02 causes 1h. 0m causes E4. 0m causes GnR. 0m causes 1h Are 02 and 1h d-separated?	No
+s causes iFQ. o6 causes C1. o6 causes iFQ. iFQ causes C1. Zmq causes C1. Zmq causes s. Zmq causes iFQ Are iFQ and o6 d-separated given {Zmq, s}?	No
+pAw causes gv1. pAw causes qE. qE causes A. qw causes A. qw causes gv1. qw causes pAw. qw causes qE Are A and pAw d-separated given {gv1, qE}?	No
+c causes I31. r causes c. Hef causes I31. Zk causes I31. Zk causes c. Zk causes r. Zk causes Hef Are Hef and r d-separated given {I31, c}?	No
+i causes Y7i. BV causes Y7i. BV causes H9. BV causes od. od causes Y7i. od causes i. od causes H9 Are BV and Y7i d-separated given {i}?	No
+y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K Are 4 and u d-separated given {l, y}?	No
+w causes Wl. w causes HDy. w causes c. Wl causes c. HDy causes c. HeZ causes Wl. HeZ causes c Are HDy and w d-separated given {Wl, c}?	No
+rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l Are OGh and e d-separated given {rkJ}?	No
+a causes V. 0WD causes V. 0WD causes a. 0WD causes mn. C causes a. C causes 0WD. mn causes V Are 0WD and V d-separated given {a, mn}?	No
+hc4 causes rK. hc4 causes u. rK causes i. u causes i. u causes rK. 9N causes hc4. 9N causes rK Are 9N and rK d-separated given {hc4, u}?	No
+W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc Are kl and zpc d-separated given {STg, V}?	No
+k causes HVI. k causes gz. k causes x. 3 causes HVI. 3 causes gz. 3 causes x. x causes HVI Are 3 and k d-separated given {gz, x}?	No
+7rr causes 3l. xg9 causes 7rr. xg9 causes TU8. xg9 causes i. 3l causes TU8. i causes 7rr. i causes 3l Are 3l and TU8 d-separated given {7rr, i, xg9}?	No
+WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h Are Uy and WAy d-separated given {2h}?	No
+Q6R causes Y. G causes Y. G causes Q6R. G causes B. Rc causes Y. Rc causes Q6R. Rc causes B Are G and Rc d-separated given {B, Y}?	No
+fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww Are TFt and w d-separated given {cww, k}?	No
+sxE causes mIw. sxE causes 8. mIw causes 2. jt causes mIw. jt causes 2. jt causes 8. 2 causes 8 Are 2 and mIw d-separated given {8, sxE}?	No
+4n causes F. F causes G7o. E causes 4n. E causes G7o. E causes F. E causes 0M. 0M causes G7o Are 4n and E d-separated given {0M, F}?	No
+Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i Are Gct and i d-separated given {1, 3R}?	No
+OG causes NCR. D4X causes NCR. El causes OG. El causes D4X. El causes NCR. 7 causes OG. 7 causes El Are 7 and El d-separated?	No
+2O causes O1U. 2O causes gC. b causes O1U. b causes 2O. b causes gC. b causes i. i causes gC Are 2O and gC d-separated given {O1U, b}?	No
+gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO Are WS and p d-separated given {IvO, gbg, kk}?	No
+O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB Are s and u d-separated given {GB, O}?	No
+kM causes 8. SX causes kZQ. u8 causes kM. u8 causes 8. u8 causes kZQ. 8 causes SX. 8 causes kZQ Are 8 and u8 d-separated?	No
+2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9 Are 2U and 9 d-separated given {Kw}?	No
+M causes s. M causes RqE. fV causes s. fV causes 5e. s causes 5e. s causes RqE. RqE causes 5e Are RqE and fV d-separated given {5e, s}?	No
+2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO Are 2pd and FO d-separated given {N4s, oi}?	No
+P causes g. P causes d0v. g causes d0v. DxD causes P. DxD causes g. DxD causes d0v. 7Fr causes d0v Are d0v and g d-separated given {7Fr}?	No
+qSE causes oj. WWq causes qSE. WWq causes oj. WWq causes h. k causes WWq. k causes oj. k causes h Are oj and qSE d-separated given {h, k}?	No
+l4 causes n9. l4 causes 1. o causes l4. o causes n9. o causes 1. 1 causes a. a causes n9 Are 1 and n9 d-separated given {o}?	No
+i causes 7Ux. i causes X. i causes A. o causes 7Ux. o causes X. o causes A. A causes X Are 7Ux and i d-separated given {A, X}?	No
+gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ Are gZ and j d-separated given {RQ, z3U}?	No
+G causes LS. G causes g. G causes b. 56 causes G. 56 causes LS. 56 causes b. b causes LS Are LS and b d-separated given {56, g}?	No
+to causes ol. 7 causes to. 7 causes yy. 7 causes ol. yy causes g. ol causes g. ol causes yy Are 7 and ol d-separated?	No
+BKH causes FA. R8u causes BKH. Pr causes BKH. Pr causes FA. Pr causes MSV. MSV causes BKH. MSV causes FA Are Pr and R8u d-separated given {FA, MSV}?	No
+IUK causes k. IUK causes NN. IUK causes R. k causes Dg. NN causes k. NN causes Dg. R causes k Are Dg and IUK d-separated given {R}?	No
+Owh causes ih. x causes Ho. x causes ih. O causes Owh. O causes x. O causes ih. ih causes Ho Are Ho and O d-separated given {x}?	No
+w causes Wl. w causes HDy. w causes c. Wl causes c. HDy causes c. HeZ causes Wl. HeZ causes c Are Wl and w d-separated?	No
+J causes skN. J causes 9. J causes dc. J causes CL. dc causes skN. CL causes skN. CL causes 9 Are J and dc d-separated given {9, skN}?	No
+iw causes H. rsN causes iw. rsN causes Bh. Bh causes iw. Bh causes H. W causes Bh. W causes H Are H and W d-separated given {iw, rsN}?	No
+Zy causes pr. Zy causes 9. d causes vf. d causes Zy. d causes pr. d causes 9. 9 causes vf Are 9 and pr d-separated given {d}?	No
+RPQ causes Y. vot causes Y. 0 causes vot. 0 causes J. 0 causes Y. J causes RPQ. J causes vot Are 0 and J d-separated given {RPQ}?	No
+y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K Are l and y d-separated given {4, 8K}?	No
+gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G Are M and t d-separated given {gL}?	No
+1 causes ARF. UX causes 1. UX causes ARF. Kp causes 1. Kp causes UX. DSS causes 1. DSS causes ARF Are Kp and UX d-separated given {ARF, DSS}?	No
+2D7 causes hsT. 2D7 causes XpW. 2D7 causes 7Rq. hsT causes 7Rq. XpW causes hsT. XpW causes 7Rq. 9s6 causes 7Rq Are 7Rq and hsT d-separated given {2D7, 9s6}?	No
+H causes 0. yk causes H. yk causes 2ei. yk causes 0. 2ei causes MN. 2ei causes 0. 0 causes MN Are 0 and H d-separated given {MN}?	No
+TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i Are 7 and HS8 d-separated?	No
+BKH causes FA. R8u causes BKH. Pr causes BKH. Pr causes FA. Pr causes MSV. MSV causes BKH. MSV causes FA Are FA and MSV d-separated given {Pr}?	No
+R causes o5e. R causes 4. LR9 causes 4. LR9 causes y. o5e causes 4. y causes R. y causes o5e Are 4 and o5e d-separated given {R}?	No
+3Z causes QPe. 3Z causes y. 3Z causes LYl. y causes QPe. F causes QPe. F causes y. F causes LYl Are 3Z and QPe d-separated?	No
+hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4 Are dt and hQ1 d-separated given {n}?	No
+6 causes q. 6 causes dQ. N causes wS. N causes q. N causes dQ. wS causes q. wS causes dQ Are dQ and q d-separated given {6, N}?	No
+AF causes x. nFd causes x. IOO causes x. IOO causes nFd. sy causes AF. sy causes nFd. sy causes IOO Are nFd and x d-separated given {AF, IOO}?	No
+SMK causes E. eA causes SMK. eA causes Ps. eA causes E. Ps causes SMK. Ps causes jnd. E causes jnd Are E and eA d-separated given {jnd}?	No
+ALS causes e. ALS causes 6. ALS causes u7. tDE causes e. tDE causes 6. u7 causes e. u7 causes 6 Are e and tDE d-separated given {6, ALS, u7}?	No
+lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9 Are g and lpV d-separated?	No
+T causes Eg. e causes T. e causes ID. e causes 2EN. ID causes T. ID causes Eg. ID causes 2EN Are 2EN and e d-separated given {Eg, ID, T}?	No
+R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S Are R and Rc d-separated given {S, xR}?	No
+MD causes fs. MD causes Ol. fs causes c. 8F causes MD. 8F causes fs. 8F causes c. c causes Ol Are Ol and c d-separated given {8F, MD, fs}?	No
+aMy causes KfX. aMy causes X. aMy causes o7. 5Yy causes KfX. 5Yy causes aMy. 5Yy causes o7. o7 causes X Are 5Yy and X d-separated given {KfX, o7}?	No
+Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4 Are d4 and w5y d-separated given {2A, Ekz, PI}?	No
+gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO Are IvO and gbg d-separated given {kk, p}?	No
+MV causes w0H. MV causes 7LV. w0H causes W. 7LV causes w0H. 7LV causes W. U7N causes w0H. U7N causes W Are W and w0H d-separated given {7LV}?	No
+8 causes 5w3. 8 causes rfV. 8 causes Qfs. 8 causes 7. Qfs causes rfV. Qfs causes 7. 7 causes rfV Are 7 and Qfs d-separated given {5w3, 8, rfV}?	No
+O causes m. m6V causes O. m6V causes 2T. m6V causes dZ. m6V causes m. 2T causes O. 2T causes m Are 2T and m6V d-separated given {m}?	No
+M causes hYt. voZ causes muP. voZ causes M. voZ causes N5p. hYt causes muP. N5p causes muP. N5p causes hYt Are M and hYt d-separated?	No
+kti causes R. kti causes V. gu causes R. gu causes v. R causes v. R causes V. V causes v Are V and kti d-separated?	No
+Re causes 5. Re causes b. dB causes 5. dB causes Re. jsg causes 5. jsg causes Re. jsg causes dB Are 5 and dB d-separated given {Re, b}?	No
+R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S Are Rc and xR d-separated given {R, S}?	No
+90 causes Jm. 90 causes S. 90 causes U5. Jm causes S. wh causes S. wh causes U5. U5 causes S Are S and U5 d-separated given {Jm}?	No
+TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i Are Y4i and yL7 d-separated given {HS8, TzJ}?	No
+rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l Are ijn and rkJ d-separated given {l}?	No
+OTt causes di. di causes Y. d causes Y. d causes di. eH causes Y. eH causes di. eH causes d Are OTt and Y d-separated?	No
+th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY Are th and toY d-separated given {lW, uk}?	No
+l4 causes n9. l4 causes 1. o causes l4. o causes n9. o causes 1. 1 causes a. a causes n9 Are n9 and o d-separated?	No
+usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4 Are Wz and r4 d-separated?	No
+00 causes k. 00 causes yC0. 9 causes yC0. yC0 causes k. D causes k. D causes 9. D causes yC0 Are D and yC0 d-separated given {9}?	No
+rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l Are e and ijn d-separated given {OGh, l}?	No
+gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G Are t and x d-separated given {M, gL}?	No
+W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc Are W and zpc d-separated given {STg}?	No
+Oao causes aOP. Oao causes g. Oao causes bKm. Oao causes X. aOP causes g. aOP causes X. bKm causes aOP Are Oao and g d-separated given {X, bKm}?	No
+fH causes Nk. 9 causes fH. 9 causes o. 9 causes Nk. 9 causes O. o causes Nk. o causes O Are 9 and fH d-separated given {Nk}?	No
+U causes 7z. U causes ZSn. U causes e. t9 causes 7z. 7z causes e. ZSn causes 7z. ZSn causes e Are ZSn and e d-separated given {7z}?	No
+Re causes 5. Re causes b. dB causes 5. dB causes Re. jsg causes 5. jsg causes Re. jsg causes dB Are Re and b d-separated given {dB, jsg}?	No
+T causes Eg. e causes T. e causes ID. e causes 2EN. ID causes T. ID causes Eg. ID causes 2EN Are ID and T d-separated?	No
+fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww Are cww and w d-separated given {k}?	No

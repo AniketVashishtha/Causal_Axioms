@@ -1,0 +1,500 @@
+{"premise": "T causes Eg. e causes T. e causes ID. e causes 2EN. ID causes T. ID causes Eg. ID causes 2EN", "hypothesis": "Are 2EN and T d-separated given {ID, e}?", "label": "Yes"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are j and qqF d-separated given {z3U}?", "label": "Yes"}
+{"premise": "a causes O. a causes Ly. IYZ causes O. IYZ causes a. Ly causes O. MSy causes O. MSy causes IYZ", "hypothesis": "Are Ly and MSy d-separated given {a}?", "label": "Yes"}
+{"premise": "s5e causes a. d causes s5e. d causes LU. d causes a. bN7 causes s5e. bN7 causes LU. LU causes s5e", "hypothesis": "Are LU and a d-separated given {d, s5e}?", "label": "Yes"}
+{"premise": "NwQ causes 1i. rSD causes NwQ. rSD causes AXE. rSD causes 1i. dY causes NwQ. dY causes AXE. dY causes 1i", "hypothesis": "Are AXE and NwQ d-separated given {dY, rSD}?", "label": "Yes"}
+{"premise": "nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR", "hypothesis": "Are nZk and s d-separated given {oFR, oo}?", "label": "Yes"}
+{"premise": "MUf causes h. MUf causes Viq. MUf causes Hz. Viq causes Hz. Viq causes t. Hz causes h. Hz causes t", "hypothesis": "Are h and t d-separated given {Hz, MUf}?", "label": "Yes"}
+{"premise": "N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t", "hypothesis": "Are ARz and wu d-separated given {N, t}?", "label": "Yes"}
+{"premise": "Uza causes A5G. Uza causes zLZ. Uza causes zC. Uza causes 7. zLZ causes zC. 7 causes zLZ. 7 causes zC", "hypothesis": "Are 7 and A5G d-separated given {Uza, zC}?", "label": "Yes"}
+{"premise": "WK causes h. WK causes 5D. WK causes 66. h causes 5D. 7 causes WK. 7 causes h. 7 causes 66", "hypothesis": "Are 5D and 66 d-separated given {WK, h}?", "label": "Yes"}
+{"premise": "l causes u. l causes NLl. l causes i3o. u causes T9O. u causes i3o. NLl causes u. NLl causes i3o", "hypothesis": "Are T9O and i3o d-separated given {NLl, u}?", "label": "Yes"}
+{"premise": "sr causes xTb. sr causes SE. sr causes D. xTb causes SE. qDn causes xTb. qDn causes SE. qDn causes D", "hypothesis": "Are D and SE d-separated given {qDn, sr, xTb}?", "label": "Yes"}
+{"premise": "g causes DJ. cP causes g. cP causes xp. cP causes DJ. x0 causes g. x0 causes xp. x0 causes DJ", "hypothesis": "Are g and xp d-separated given {DJ, cP, x0}?", "label": "Yes"}
+{"premise": "OG causes NCR. D4X causes NCR. El causes OG. El causes D4X. El causes NCR. 7 causes OG. 7 causes El", "hypothesis": "Are 7 and D4X d-separated given {El, OG}?", "label": "Yes"}
+{"premise": "bzC causes h60. bzC causes Ru. Ru causes h60. Ru causes 2. y causes h60. y causes Ru. y causes 2", "hypothesis": "Are bzC and y d-separated?", "label": "Yes"}
+{"premise": "ZS0 causes pjI. ZS0 causes O. ZS0 causes m. O causes pjI. m causes O. h causes O. h causes m", "hypothesis": "Are ZS0 and h d-separated?", "label": "Yes"}
+{"premise": "C causes KVM. C causes A. C causes KAM. 09 causes A. 09 causes KAM. KVM causes KAM. A causes KAM", "hypothesis": "Are 09 and C d-separated?", "label": "Yes"}
+{"premise": "HSx causes 1v. HSx causes 4. Vx causes 1v. Vx causes 4. EKD causes HSx. EKD causes Vx. EKD causes 4", "hypothesis": "Are 1v and EKD d-separated given {HSx, Vx}?", "label": "Yes"}
+{"premise": "4 causes k. fR causes 69m. fR causes k. k causes 69m. cr causes 69m. cr causes 4. cr causes k", "hypothesis": "Are cr and fR d-separated?", "label": "Yes"}
+{"premise": "cH causes L. to causes L. to causes cH. to causes GN2. GN2 causes L. GN2 causes cH. GN2 causes OAx", "hypothesis": "Are L and OAx d-separated given {GN2, cH, to}?", "label": "Yes"}
+{"premise": "hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4", "hypothesis": "Are dt and hQ1 d-separated given {dn4}?", "label": "Yes"}
+{"premise": "W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc", "hypothesis": "Are STg and zpc d-separated given {V, W, kl}?", "label": "Yes"}
+{"premise": "R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S", "hypothesis": "Are O and R d-separated given {Rc, xR}?", "label": "Yes"}
+{"premise": "PqF causes u. q causes aW. q causes u. FiG causes PqF. FiG causes aW. FiG causes u. FiG causes q", "hypothesis": "Are PqF and aW d-separated given {FiG}?", "label": "Yes"}
+{"premise": "i causes Y7i. BV causes Y7i. BV causes H9. BV causes od. od causes Y7i. od causes i. od causes H9", "hypothesis": "Are H9 and Y7i d-separated given {BV, od}?", "label": "Yes"}
+{"premise": "z causes k6b. UTK causes z. UTK causes k6b. UTK causes m. UTK causes K. m causes k6b. m causes K", "hypothesis": "Are K and k6b d-separated given {UTK, m, z}?", "label": "Yes"}
+{"premise": "9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ", "hypothesis": "Are WG and ypt d-separated given {9Z1}?", "label": "Yes"}
+{"premise": "Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4", "hypothesis": "Are Ekz and w5y d-separated given {PI}?", "label": "Yes"}
+{"premise": "5hf causes Yis. gm causes Yis. gm causes 9a. gm causes a. 9a causes Yis. a causes Yis. a causes 9a", "hypothesis": "Are 5hf and gm d-separated?", "label": "Yes"}
+{"premise": "A causes 3. A causes skS. 14I causes 3. 14I causes skS. skS causes 3. H9 causes 3. H9 causes skS", "hypothesis": "Are 14I and A d-separated given {H9}?", "label": "Yes"}
+{"premise": "hR1 causes lu. hR1 causes eu. yuw causes eu. yuw causes 7W. eu causes lu. 7W causes lu. 7W causes eu", "hypothesis": "Are hR1 and yuw d-separated?", "label": "Yes"}
+{"premise": "YdQ causes 8dZ. YdQ causes j. m9 causes YdQ. m9 causes I. j causes 8dZ. I causes 8dZ. I causes j", "hypothesis": "Are 8dZ and m9 d-separated given {I, YdQ}?", "label": "Yes"}
+{"premise": "T causes 3Wt. T causes Ahy. T causes A. Ahy causes A. xd8 causes T. xd8 causes Ahy. xd8 causes A", "hypothesis": "Are 3Wt and xd8 d-separated given {A, Ahy, T}?", "label": "Yes"}
+{"premise": "vN causes S3Y. XYO causes S3Y. XYO causes xm. L causes vN. L causes S3Y. xm causes vN. xm causes S3Y", "hypothesis": "Are L and XYO d-separated given {vN, xm}?", "label": "Yes"}
+{"premise": "Uz causes MHs. Uz causes SC. 7Y causes b. MHs causes 7Y. MHs causes b. MHs causes SC. SC causes 7Y", "hypothesis": "Are Uz and b d-separated given {MHs, SC}?", "label": "Yes"}
+{"premise": "wE causes X. wE causes Ryk. 7H causes 9K. 7H causes Ryk. X causes 7H. X causes Ryk. Ryk causes 9K", "hypothesis": "Are 7H and wE d-separated given {X}?", "label": "Yes"}
+{"premise": "lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9", "hypothesis": "Are Vr and j9 d-separated given {WV8, g, lpV}?", "label": "Yes"}
+{"premise": "qSE causes oj. WWq causes qSE. WWq causes oj. WWq causes h. k causes WWq. k causes oj. k causes h", "hypothesis": "Are h and qSE d-separated given {WWq, k}?", "label": "Yes"}
+{"premise": "nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR", "hypothesis": "Are nZk and oo d-separated given {s}?", "label": "Yes"}
+{"premise": "fsl causes 87. fsl causes yD. P causes 87. P causes yD. 87 causes yD. QgH causes 87. QgH causes yD", "hypothesis": "Are P and QgH d-separated?", "label": "Yes"}
+{"premise": "U causes d. U causes zzv. zzv causes d. Jes causes d. Jes causes 72C. 72C causes d. 72C causes zzv", "hypothesis": "Are Jes and U d-separated?", "label": "Yes"}
+{"premise": "Zsu causes 6Q. Zsu causes U9. kq2 causes 6Q. kq2 causes U9. U9 causes 6Q. h causes 6Q. h causes Zsu", "hypothesis": "Are Zsu and kq2 d-separated?", "label": "Yes"}
+{"premise": "pAw causes gv1. pAw causes qE. qE causes A. qw causes A. qw causes gv1. qw causes pAw. qw causes qE", "hypothesis": "Are A and pAw d-separated given {qE, qw}?", "label": "Yes"}
+{"premise": "Xf causes L. Xf causes 5. qd causes 5. L causes qd. L causes 5. q1 causes qd. q1 causes 5", "hypothesis": "Are Xf and q1 d-separated given {L, qd}?", "label": "Yes"}
+{"premise": "9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ", "hypothesis": "Are WG and ypt d-separated given {9Z1, b2}?", "label": "Yes"}
+{"premise": "2 causes 1T. XS causes 2. XS causes 58. XS causes 1T. R causes 58. R causes 1T. 1T causes 58", "hypothesis": "Are 2 and R d-separated given {XS}?", "label": "Yes"}
+{"premise": "fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww", "hypothesis": "Are cww and fCb d-separated given {k, w}?", "label": "Yes"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are gZ and j d-separated given {z3U}?", "label": "Yes"}
+{"premise": "WY causes R. V7 causes R. V7 causes WY. dQq causes R. dQq causes V7. EJL causes R. EJL causes dQq", "hypothesis": "Are EJL and WY d-separated given {V7, dQq}?", "label": "Yes"}
+{"premise": "J causes skN. J causes 9. J causes dc. J causes CL. dc causes skN. CL causes skN. CL causes 9", "hypothesis": "Are 9 and dc d-separated given {CL, J, skN}?", "label": "Yes"}
+{"premise": "qaX causes Sr. qaX causes D. qaX causes F47. D causes Sr. 2c causes Sr. F47 causes Sr. F47 causes D", "hypothesis": "Are 2c and F47 d-separated?", "label": "Yes"}
+{"premise": "I causes Jlt. I causes c. c causes Jlt. 5u causes I. 5u causes Jlt. 5u causes c. 5u causes 1Lz", "hypothesis": "Are 1Lz and c d-separated given {5u, I, Jlt}?", "label": "Yes"}
+{"premise": "l4 causes 29d. eAy causes l4. eAy causes 29d. Jjn causes l4. Jjn causes 29d. 62d causes l4. 62d causes eAy", "hypothesis": "Are 29d and 62d d-separated given {Jjn, eAy, l4}?", "label": "Yes"}
+{"premise": "CSz causes m0D. C causes m0D. t causes CSz. t causes C. t causes ET. ET causes CSz. ET causes m0D", "hypothesis": "Are m0D and t d-separated given {C, CSz, ET}?", "label": "Yes"}
+{"premise": "bV causes x. bV causes z. GD4 causes x. GD4 causes k. z causes x. k causes x. k causes z", "hypothesis": "Are GD4 and bV d-separated given {k, z}?", "label": "Yes"}
+{"premise": "gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G", "hypothesis": "Are G and gL d-separated given {M}?", "label": "Yes"}
+{"premise": "3Vx causes F9. 3Vx causes h. 3Vx causes 5. h causes F9. 5 causes F9. 5 causes f. 5 causes h", "hypothesis": "Are F9 and f d-separated given {5}?", "label": "Yes"}
+{"premise": "0 causes h. 0 causes rG5. h causes rG5. y0 causes 0. y0 causes h. y0 causes y. y0 causes rG5", "hypothesis": "Are 0 and y d-separated given {h, y0}?", "label": "Yes"}
+{"premise": "TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i", "hypothesis": "Are TzJ and Y4i d-separated given {HS8, yL7}?", "label": "Yes"}
+{"premise": "0 causes h. 0 causes rG5. h causes rG5. y0 causes 0. y0 causes h. y0 causes y. y0 causes rG5", "hypothesis": "Are 0 and y d-separated given {h, y0}?", "label": "Yes"}
+{"premise": "T causes CY. T causes DgX. aC causes T. aC causes CY. aC causes 6k6. 6k6 causes DgX. DgX causes CY", "hypothesis": "Are 6k6 and CY d-separated given {DgX, T, aC}?", "label": "Yes"}
+{"premise": "KvY causes W39. KvY causes p. 9i causes W39. 9i causes n. 9i causes p. p causes W39. p causes n", "hypothesis": "Are KvY and n d-separated given {9i, W39, p}?", "label": "Yes"}
+{"premise": "1 causes ARF. UX causes 1. UX causes ARF. Kp causes 1. Kp causes UX. DSS causes 1. DSS causes ARF", "hypothesis": "Are DSS and UX d-separated?", "label": "Yes"}
+{"premise": "Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8", "hypothesis": "Are 2bp and L d-separated given {Kv}?", "label": "Yes"}
+{"premise": "d causes 2u. d causes nE. 2u causes GSH. 2u causes nE. nE causes GSH. Z causes GSH. Z causes nE", "hypothesis": "Are Z and d d-separated?", "label": "Yes"}
+{"premise": "k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0", "hypothesis": "Are ij and k0 d-separated given {T5, zF}?", "label": "Yes"}
+{"premise": "siz causes GK1. G causes GK1. y causes siz. y causes GK1. A causes siz. A causes G. A causes y", "hypothesis": "Are A and GK1 d-separated given {G, siz, y}?", "label": "Yes"}
+{"premise": "z causes oe. 5 causes oe. 5 causes 0QN. 5 causes m2. 0QN causes oe. 0QN causes m2. m2 causes oe", "hypothesis": "Are 5 and z d-separated given {0QN, m2}?", "label": "Yes"}
+{"premise": "l causes u. l causes NLl. l causes i3o. u causes T9O. u causes i3o. NLl causes u. NLl causes i3o", "hypothesis": "Are T9O and l d-separated given {i3o, u}?", "label": "Yes"}
+{"premise": "N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t", "hypothesis": "Are ARz and t d-separated given {N, wu}?", "label": "Yes"}
+{"premise": "7dW causes jHb. 6 causes jHb. x causes 7dW. x causes 6. x causes jHb. x causes tpF. tpF causes 7dW", "hypothesis": "Are jHb and tpF d-separated given {7dW, x}?", "label": "Yes"}
+{"premise": "Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H", "hypothesis": "Are Sx and g d-separated given {2PS, s}?", "label": "Yes"}
+{"premise": "3os causes M9T. 3os causes I. 3os causes lk. T8x causes M9T. T8x causes I. T8x causes lk. lk causes M9T", "hypothesis": "Are I and lk d-separated given {3os, M9T, T8x}?", "label": "Yes"}
+{"premise": "i causes 7Ux. i causes X. i causes A. o causes 7Ux. o causes X. o causes A. A causes X", "hypothesis": "Are 7Ux and X d-separated given {i, o}?", "label": "Yes"}
+{"premise": "YH causes vN. vN causes YD. pkY causes YH. pkY causes YD. pkY causes 7. 7 causes YH. 7 causes YD", "hypothesis": "Are pkY and vN d-separated given {YH}?", "label": "Yes"}
+{"premise": "0 causes h. 0 causes rG5. h causes rG5. y0 causes 0. y0 causes h. y0 causes y. y0 causes rG5", "hypothesis": "Are 0 and y d-separated given {rG5, y0}?", "label": "Yes"}
+{"premise": "5 causes LX. 5 causes OBO. LX causes OBO. A causes 5. A causes LX. A causes OBO. OBO causes T", "hypothesis": "Are A and T d-separated given {LX, OBO}?", "label": "Yes"}
+{"premise": "th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY", "hypothesis": "Are lW and th d-separated?", "label": "Yes"}
+{"premise": "j causes TB. j causes nn. j causes xv. nn causes TB. nn causes xv. nn causes i. i causes TB", "hypothesis": "Are i and xv d-separated given {nn}?", "label": "Yes"}
+{"premise": "2O causes O1U. 2O causes gC. b causes O1U. b causes 2O. b causes gC. b causes i. i causes gC", "hypothesis": "Are O1U and gC d-separated given {2O, b}?", "label": "Yes"}
+{"premise": "a causes O. a causes Ly. IYZ causes O. IYZ causes a. Ly causes O. MSy causes O. MSy causes IYZ", "hypothesis": "Are Ly and MSy d-separated given {IYZ, a}?", "label": "Yes"}
+{"premise": "tA causes P. tA causes JA3. tA causes IK. JA3 causes P. O causes P. IK causes P. IK causes O", "hypothesis": "Are O and tA d-separated given {IK, JA3}?", "label": "Yes"}
+{"premise": "wE causes X. wE causes Ryk. 7H causes 9K. 7H causes Ryk. X causes 7H. X causes Ryk. Ryk causes 9K", "hypothesis": "Are 9K and wE d-separated given {7H, Ryk, X}?", "label": "Yes"}
+{"premise": "Stu causes ECZ. Stu causes TZj. TZj causes ECZ. zrt causes Stu. zrt causes ECZ. zrt causes qFS. qFS causes ECZ", "hypothesis": "Are TZj and qFS d-separated given {Stu}?", "label": "Yes"}
+{"premise": "Zsu causes 6Q. Zsu causes U9. kq2 causes 6Q. kq2 causes U9. U9 causes 6Q. h causes 6Q. h causes Zsu", "hypothesis": "Are U9 and h d-separated given {Zsu}?", "label": "Yes"}
+{"premise": "5 causes LX. 5 causes OBO. LX causes OBO. A causes 5. A causes LX. A causes OBO. OBO causes T", "hypothesis": "Are A and T d-separated given {OBO}?", "label": "Yes"}
+{"premise": "A causes 3. A causes skS. 14I causes 3. 14I causes skS. skS causes 3. H9 causes 3. H9 causes skS", "hypothesis": "Are 14I and H9 d-separated given {A}?", "label": "Yes"}
+{"premise": "Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo", "hypothesis": "Are 8wp and v d-separated given {s4f}?", "label": "Yes"}
+{"premise": "IL causes m. 8 causes A. 8 causes m. OkP causes IL. OkP causes A. A causes IL. A causes m", "hypothesis": "Are OkP and m d-separated given {8, A, IL}?", "label": "Yes"}
+{"premise": "yow causes Rx. d causes Rx. d causes W5n. W5n causes yow. W5n causes Rx. 5 causes yow. 5 causes Rx", "hypothesis": "Are 5 and W5n d-separated?", "label": "Yes"}
+{"premise": "K causes F0. D causes K. D causes F0. tXk causes F0. Ax causes K. Ax causes D. Ax causes tXk", "hypothesis": "Are K and tXk d-separated given {Ax, D}?", "label": "Yes"}
+{"premise": "hiE causes aDa. hiE causes KKo. aDa causes KKo. NIW causes KKo. NIW causes 0DR. 0DR causes aDa. 0DR causes KKo", "hypothesis": "Are 0DR and hiE d-separated?", "label": "Yes"}
+{"premise": "2 causes 1T. XS causes 2. XS causes 58. XS causes 1T. R causes 58. R causes 1T. 1T causes 58", "hypothesis": "Are 2 and 58 d-separated given {1T, R, XS}?", "label": "Yes"}
+{"premise": "8 causes 5w3. 8 causes rfV. 8 causes Qfs. 8 causes 7. Qfs causes rfV. Qfs causes 7. 7 causes rfV", "hypothesis": "Are 5w3 and Qfs d-separated given {7, 8, rfV}?", "label": "Yes"}
+{"premise": "5hf causes Yis. gm causes Yis. gm causes 9a. gm causes a. 9a causes Yis. a causes Yis. a causes 9a", "hypothesis": "Are 5hf and 9a d-separated given {a}?", "label": "Yes"}
+{"premise": "s causes C. s causes lAF. C causes a. lAF causes a. Mpf causes a. Mpf causes s. Mpf causes lAF", "hypothesis": "Are C and lAF d-separated given {Mpf, s}?", "label": "Yes"}
+{"premise": "sxE causes mIw. sxE causes 8. mIw causes 2. jt causes mIw. jt causes 2. jt causes 8. 2 causes 8", "hypothesis": "Are 2 and sxE d-separated given {jt, mIw}?", "label": "Yes"}
+{"premise": "US causes Svv. US causes 3. K causes tMF. K causes Svv. K causes 3. Svv causes tMF. 3 causes tMF", "hypothesis": "Are US and tMF d-separated given {3, K, Svv}?", "label": "Yes"}
+{"premise": "YdQ causes 8dZ. YdQ causes j. m9 causes YdQ. m9 causes I. j causes 8dZ. I causes 8dZ. I causes j", "hypothesis": "Are I and YdQ d-separated given {m9}?", "label": "Yes"}
+{"premise": "KvH causes zOG. KvH causes Y. mg6 causes KvH. mg6 causes zOG. mg6 causes Y. mg6 causes w7m. w7m causes zOG", "hypothesis": "Are Y and zOG d-separated given {KvH, mg6}?", "label": "Yes"}
+{"premise": "o causes e. o causes dR. z8b causes o. z8b causes FnR. e causes FnR. e causes dR. dR causes FnR", "hypothesis": "Are dR and z8b d-separated given {o}?", "label": "Yes"}
+{"premise": "Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H", "hypothesis": "Are 2PS and Sx d-separated given {g}?", "label": "Yes"}
+{"premise": "usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4", "hypothesis": "Are W and usv d-separated given {Mj, Wz}?", "label": "Yes"}
+{"premise": "tA causes P. tA causes JA3. tA causes IK. JA3 causes P. O causes P. IK causes P. IK causes O", "hypothesis": "Are JA3 and O d-separated given {IK}?", "label": "Yes"}
+{"premise": "1U causes IS9. M causes 1U. M causes IS9. M causes 38. FHP causes 1U. 38 causes 1U. 38 causes FHP", "hypothesis": "Are FHP and M d-separated given {38}?", "label": "Yes"}
+{"premise": "TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i", "hypothesis": "Are TzJ and Y4i d-separated given {7, HS8, yL7}?", "label": "Yes"}
+{"premise": "o causes e. o causes dR. z8b causes o. z8b causes FnR. e causes FnR. e causes dR. dR causes FnR", "hypothesis": "Are dR and z8b d-separated given {e, o}?", "label": "Yes"}
+{"premise": "yK causes nL. n causes Yx. n causes nL. n causes P. P causes yK. P causes Yx. P causes nL", "hypothesis": "Are n and yK d-separated given {P, Yx}?", "label": "Yes"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are gZ and j d-separated given {qqF}?", "label": "Yes"}
+{"premise": "Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H", "hypothesis": "Are Sx and g d-separated?", "label": "Yes"}
+{"premise": "3wq causes QU. B causes QU. Bd causes B. Bd causes QU. Z47 causes B. Z47 causes Bd. Z47 causes QU", "hypothesis": "Are 3wq and B d-separated?", "label": "Yes"}
+{"premise": "T causes 3Wt. T causes Ahy. T causes A. Ahy causes A. xd8 causes T. xd8 causes Ahy. xd8 causes A", "hypothesis": "Are 3Wt and A d-separated given {Ahy, T}?", "label": "Yes"}
+{"premise": "T causes CY. T causes DgX. aC causes T. aC causes CY. aC causes 6k6. 6k6 causes DgX. DgX causes CY", "hypothesis": "Are DgX and aC d-separated given {6k6, T}?", "label": "Yes"}
+{"premise": "B7 causes EwE. zL causes EwE. zL causes B7. zL causes J. 1rP causes EwE. 1rP causes zL. 1rP causes J", "hypothesis": "Are 1rP and B7 d-separated given {J, zL}?", "label": "Yes"}
+{"premise": "2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9", "hypothesis": "Are sr and xp d-separated given {2U, Kw}?", "label": "Yes"}
+{"premise": "wEX causes W. wEX causes wD. wD causes W. wD causes t. 58Y causes W. 58Y causes t. 58Y causes wD", "hypothesis": "Are W and t d-separated given {58Y, wD}?", "label": "Yes"}
+{"premise": "qaX causes Sr. qaX causes D. qaX causes F47. D causes Sr. 2c causes Sr. F47 causes Sr. F47 causes D", "hypothesis": "Are 2c and F47 d-separated given {D}?", "label": "Yes"}
+{"premise": "4 causes Z. j causes Z. j causes Zu. B7 causes 4. B7 causes j. B7 causes Zu. Zu causes Z", "hypothesis": "Are B7 and Z d-separated given {4, Zu, j}?", "label": "Yes"}
+{"premise": "9E causes wzO. 9E causes Zz. 9E causes 0. ope causes wzO. ope causes Zz. ope causes 0. Zz causes wzO", "hypothesis": "Are 0 and Zz d-separated given {9E, ope, wzO}?", "label": "Yes"}
+{"premise": "WK causes h. WK causes 5D. WK causes 66. h causes 5D. 7 causes WK. 7 causes h. 7 causes 66", "hypothesis": "Are 5D and 7 d-separated given {WK, h}?", "label": "Yes"}
+{"premise": "z causes k6b. UTK causes z. UTK causes k6b. UTK causes m. UTK causes K. m causes k6b. m causes K", "hypothesis": "Are m and z d-separated given {K, UTK}?", "label": "Yes"}
+{"premise": "b61 causes VTT. gGy causes YM. gGy causes u. gGy causes VTT. u causes b61. u causes YM. u causes VTT", "hypothesis": "Are b61 and gGy d-separated given {u}?", "label": "Yes"}
+{"premise": "Sx causes H. s causes 2PS. s causes H. g causes s. g causes 2PS. g causes H. 2PS causes H", "hypothesis": "Are 2PS and Sx d-separated given {s}?", "label": "Yes"}
+{"premise": "MD causes fs. MD causes Ol. fs causes c. 8F causes MD. 8F causes fs. 8F causes c. c causes Ol", "hypothesis": "Are MD and c d-separated given {8F, fs}?", "label": "Yes"}
+{"premise": "5 causes gr. 5 causes 2M. 4h causes gr. 4h causes Ef. 2M causes 4h. 2M causes gr. 2M causes Ef", "hypothesis": "Are 5 and Ef d-separated given {2M, 4h}?", "label": "Yes"}
+{"premise": "O causes K. bRt causes K. bRt causes b. n causes bRt. n causes K. b causes O. b causes K", "hypothesis": "Are O and n d-separated given {bRt}?", "label": "Yes"}
+{"premise": "0 causes 1. 0 causes TG. BKd causes TG. BKd causes 7H1. 7H1 causes 0. 7H1 causes 1. 7H1 causes TG", "hypothesis": "Are 1 and TG d-separated given {0, 7H1, BKd}?", "label": "Yes"}
+{"premise": "U causes 7z. U causes ZSn. U causes e. t9 causes 7z. 7z causes e. ZSn causes 7z. ZSn causes e", "hypothesis": "Are ZSn and t9 d-separated given {U}?", "label": "Yes"}
+{"premise": "Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo", "hypothesis": "Are Fv and v d-separated given {8wp, s4f}?", "label": "Yes"}
+{"premise": "8 causes m8. 2R causes 8. 2R causes m8. m8 causes 1x. 9x9 causes 8. 9x9 causes 2R. 9x9 causes m8", "hypothesis": "Are 1x and 8 d-separated given {9x9, m8}?", "label": "Yes"}
+{"premise": "2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5", "hypothesis": "Are 2 and HdP d-separated given {2f2, P, Q5}?", "label": "Yes"}
+{"premise": "R5F causes 5. R5F causes X0l. R5F causes D8O. X0l causes 5. iB causes 5. iB causes X0l. D8O causes X0l", "hypothesis": "Are R5F and iB d-separated?", "label": "Yes"}
+{"premise": "7Ba causes t. 7Ba causes O. 7Ba causes 7Q. O causes t. O causes 7Q. 7Q causes icb. 7Q causes t", "hypothesis": "Are 7Ba and icb d-separated given {7Q, O}?", "label": "Yes"}
+{"premise": "jaA causes th. jaA causes iPi. th causes 0xe. F causes 0xe. iPi causes 0xe. iPi causes th. iPi causes F", "hypothesis": "Are F and th d-separated given {iPi}?", "label": "Yes"}
+{"premise": "fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww", "hypothesis": "Are cww and fCb d-separated given {TFt, k, w}?", "label": "Yes"}
+{"premise": "k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0", "hypothesis": "Are ij and vT d-separated given {T5, k0, zF}?", "label": "Yes"}
+{"premise": "Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i", "hypothesis": "Are 1 and T d-separated given {Gct, i}?", "label": "Yes"}
+{"premise": "rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l", "hypothesis": "Are ijn and rkJ d-separated given {OGh, e}?", "label": "Yes"}
+{"premise": "zc causes cE7. zc causes e. cE7 causes e. fUb causes cE7. fUb causes e. kB causes zc. kB causes e", "hypothesis": "Are fUb and kB d-separated?", "label": "Yes"}
+{"premise": "qaX causes Sr. qaX causes D. qaX causes F47. D causes Sr. 2c causes Sr. F47 causes Sr. F47 causes D", "hypothesis": "Are 2c and D d-separated given {F47}?", "label": "Yes"}
+{"premise": "l causes RLh. l causes SuX. RLh causes SuX. 8 causes RLh. 8 causes SuX. o causes RLh. o causes SuX", "hypothesis": "Are 8 and l d-separated?", "label": "Yes"}
+{"premise": "pAw causes gv1. pAw causes qE. qE causes A. qw causes A. qw causes gv1. qw causes pAw. qw causes qE", "hypothesis": "Are gv1 and qE d-separated given {pAw, qw}?", "label": "Yes"}
+{"premise": "T causes C0. T causes S. T causes HpL. T causes yW. C0 causes HpL. HpL causes S. yW causes HpL", "hypothesis": "Are C0 and yW d-separated given {T}?", "label": "Yes"}
+{"premise": "fH causes Nk. 9 causes fH. 9 causes o. 9 causes Nk. 9 causes O. o causes Nk. o causes O", "hypothesis": "Are O and fH d-separated given {9, Nk, o}?", "label": "Yes"}
+{"premise": "3wq causes QU. B causes QU. Bd causes B. Bd causes QU. Z47 causes B. Z47 causes Bd. Z47 causes QU", "hypothesis": "Are 3wq and Bd d-separated given {B, Z47}?", "label": "Yes"}
+{"premise": "lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9", "hypothesis": "Are WV8 and lpV d-separated given {Vr}?", "label": "Yes"}
+{"premise": "h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA", "hypothesis": "Are 3jA and h d-separated given {8v, BU, Vci}?", "label": "Yes"}
+{"premise": "ABk causes Qlc. 8B causes Qlc. 8B causes eN2. 8B causes N4. eN2 causes Qlc. eN2 causes N4. N4 causes Qlc", "hypothesis": "Are ABk and N4 d-separated given {8B}?", "label": "Yes"}
+{"premise": "to causes ol. 7 causes to. 7 causes yy. 7 causes ol. yy causes g. ol causes g. ol causes yy", "hypothesis": "Are to and yy d-separated given {7, g, ol}?", "label": "Yes"}
+{"premise": "Jz7 causes Ucy. Jz7 causes oeK. oeK causes Ucy. oeK causes WKd. XRx causes Ucy. XRx causes oeK. XRx causes WKd", "hypothesis": "Are Jz7 and WKd d-separated given {XRx, oeK}?", "label": "Yes"}
+{"premise": "6 causes q. 6 causes dQ. N causes wS. N causes q. N causes dQ. wS causes q. wS causes dQ", "hypothesis": "Are 6 and wS d-separated given {N}?", "label": "Yes"}
+{"premise": "N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t", "hypothesis": "Are ARz and aQ d-separated given {N, t}?", "label": "Yes"}
+{"premise": "g9 causes r. mxl causes Wk. mxl causes r. Wk causes g9. Wk causes r. 2 causes g9. 2 causes mxl", "hypothesis": "Are 2 and Wk d-separated given {mxl}?", "label": "Yes"}
+{"premise": "0b9 causes t5s. Jf causes 0b9. Jf causes 2H8. Jf causes t5s. gzr causes 0b9. gzr causes t5s. t5s causes 2H8", "hypothesis": "Are 2H8 and gzr d-separated given {Jf, t5s}?", "label": "Yes"}
+{"premise": "MUf causes h. MUf causes Viq. MUf causes Hz. Viq causes Hz. Viq causes t. Hz causes h. Hz causes t", "hypothesis": "Are h and t d-separated given {Hz, MUf, Viq}?", "label": "Yes"}
+{"premise": "2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9", "hypothesis": "Are Kw and xp d-separated given {2U, sr}?", "label": "Yes"}
+{"premise": "h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA", "hypothesis": "Are 8v and BU d-separated given {Vci, h}?", "label": "Yes"}
+{"premise": "kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4", "hypothesis": "Are c and k d-separated given {t}?", "label": "Yes"}
+{"premise": "R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S", "hypothesis": "Are O and R d-separated given {Rc}?", "label": "Yes"}
+{"premise": "2O causes O1U. 2O causes gC. b causes O1U. b causes 2O. b causes gC. b causes i. i causes gC", "hypothesis": "Are O1U and i d-separated given {2O, b}?", "label": "Yes"}
+{"premise": "2PD causes Gqw. 89 causes 2PD. 89 causes Gqw. T causes 2PD. T causes Gqw. PB causes 2PD. PB causes 89", "hypothesis": "Are Gqw and PB d-separated given {2PD, 89, T}?", "label": "Yes"}
+{"premise": "SMK causes E. eA causes SMK. eA causes Ps. eA causes E. Ps causes SMK. Ps causes jnd. E causes jnd", "hypothesis": "Are SMK and jnd d-separated given {E, Ps, eA}?", "label": "Yes"}
+{"premise": "Y causes Q. Y causes N. Y causes 4. Q causes N. j causes N. j causes 4. 4 causes N", "hypothesis": "Are Y and j d-separated?", "label": "Yes"}
+{"premise": "Enf causes KE. Enf causes 51. h2 causes KE. h2 causes 51. h2 causes ag4. 51 causes KE. 51 causes ag4", "hypothesis": "Are Enf and ag4 d-separated given {51, h2}?", "label": "Yes"}
+{"premise": "2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO", "hypothesis": "Are GKj and N4s d-separated given {oi}?", "label": "Yes"}
+{"premise": "7Ba causes t. 7Ba causes O. 7Ba causes 7Q. O causes t. O causes 7Q. 7Q causes icb. 7Q causes t", "hypothesis": "Are 7Ba and icb d-separated given {7Q, t}?", "label": "Yes"}
+{"premise": "90 causes Jm. 90 causes S. 90 causes U5. Jm causes S. wh causes S. wh causes U5. U5 causes S", "hypothesis": "Are Jm and U5 d-separated given {90, wh}?", "label": "Yes"}
+{"premise": "9gk causes bKd. 9gk causes N. O causes 9gk. O causes bKd. O causes Qi. N causes bKd. Qi causes bKd", "hypothesis": "Are N and Qi d-separated given {9gk, O}?", "label": "Yes"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are gZ and j d-separated given {qqF, z3U}?", "label": "Yes"}
+{"premise": "yJ causes my. yJ causes 9. XIl causes yJ. XIl causes 9. B causes my. B causes yJ. 9 causes my", "hypothesis": "Are XIl and my d-separated given {9, B, yJ}?", "label": "Yes"}
+{"premise": "2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5", "hypothesis": "Are 2f2 and Q5 d-separated given {HdP, P}?", "label": "Yes"}
+{"premise": "Yg causes j. Yg causes gG. Yg causes t. Yg causes Q. gG causes j. gG causes Q. t causes j", "hypothesis": "Are Q and j d-separated given {Yg, gG, t}?", "label": "Yes"}
+{"premise": "QO causes d. d causes A. u causes A. vzU causes QO. vzU causes A. vzU causes d. vzU causes u", "hypothesis": "Are QO and u d-separated given {vzU}?", "label": "Yes"}
+{"premise": "W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc", "hypothesis": "Are kl and zpc d-separated given {V, W}?", "label": "Yes"}
+{"premise": "k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0", "hypothesis": "Are ij and vT d-separated given {T5, k0, zF}?", "label": "Yes"}
+{"premise": "WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h", "hypothesis": "Are 2h and 47 d-separated given {75, Uy, WAy}?", "label": "Yes"}
+{"premise": "UjT causes qye. UjT causes 7v2. 7v2 causes p. 7v2 causes qye. I causes p. I causes qye. I causes UjT", "hypothesis": "Are 7v2 and I d-separated given {UjT}?", "label": "Yes"}
+{"premise": "wa causes T8. wa causes Fe. T8 causes w. Fe causes T8. acC causes wa. acC causes Fe. acC causes w", "hypothesis": "Are w and wa d-separated given {T8, acC}?", "label": "Yes"}
+{"premise": "fD causes fym. fD causes PGV. fD causes 0. fD causes j. PGV causes fym. PGV causes 0. 0 causes fym", "hypothesis": "Are 0 and j d-separated given {fD, fym}?", "label": "Yes"}
+{"premise": "6 causes 7k. 6 causes m3. k48 causes 6. k48 causes Fu7. k48 causes 7k. k48 causes m3. 7k causes m3", "hypothesis": "Are 6 and Fu7 d-separated given {7k, k48, m3}?", "label": "Yes"}
+{"premise": "1 causes ARF. UX causes 1. UX causes ARF. Kp causes 1. Kp causes UX. DSS causes 1. DSS causes ARF", "hypothesis": "Are ARF and Kp d-separated given {1, DSS, UX}?", "label": "Yes"}
+{"premise": "wf causes 3I. u1 causes 3I. N3 causes u1. N3 causes 3I. N3 causes a. a causes u1. a causes 3I", "hypothesis": "Are u1 and wf d-separated given {N3, a}?", "label": "Yes"}
+{"premise": "Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8", "hypothesis": "Are 2bp and L d-separated given {Kv}?", "label": "Yes"}
+{"premise": "WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h", "hypothesis": "Are 2h and WAy d-separated given {75, Uy}?", "label": "Yes"}
+{"premise": "Z6C causes y. y causes q. 45y causes gQd. 45y causes Z6C. 45y causes y. 45y causes q. q causes gQd", "hypothesis": "Are gQd and y d-separated given {45y, Z6C, q}?", "label": "Yes"}
+{"premise": "fI causes CTm. Ig causes fI. Ig causes o. Ig causes T2W. o causes fI. o causes CTm. T2W causes CTm", "hypothesis": "Are T2W and fI d-separated given {Ig, o}?", "label": "Yes"}
+{"premise": "gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G", "hypothesis": "Are G and x d-separated given {M, gL}?", "label": "Yes"}
+{"premise": "0 causes 7ll. 7ll causes R. U causes 7ll. U causes B. B causes R. B causes 0. B causes 7ll", "hypothesis": "Are R and U d-separated given {7ll, B}?", "label": "Yes"}
+{"premise": "8 causes m8. 2R causes 8. 2R causes m8. m8 causes 1x. 9x9 causes 8. 9x9 causes 2R. 9x9 causes m8", "hypothesis": "Are 1x and 9x9 d-separated given {2R, 8, m8}?", "label": "Yes"}
+{"premise": "3 causes 6. l causes 6. l causes 3. e causes vd8. e causes 6. e causes 3. e causes l", "hypothesis": "Are 6 and vd8 d-separated given {e}?", "label": "Yes"}
+{"premise": "sr causes xTb. sr causes SE. sr causes D. xTb causes SE. qDn causes xTb. qDn causes SE. qDn causes D", "hypothesis": "Are qDn and sr d-separated?", "label": "Yes"}
+{"premise": "an causes 5E. an causes GI6. an causes 7Z. GI6 causes v. GI6 causes 5E. GI6 causes 7Z. 7Z causes 5E", "hypothesis": "Are an and v d-separated given {5E, GI6}?", "label": "Yes"}
+{"premise": "RPQ causes Y. vot causes Y. 0 causes vot. 0 causes J. 0 causes Y. J causes RPQ. J causes vot", "hypothesis": "Are RPQ and vot d-separated given {0, J}?", "label": "Yes"}
+{"premise": "fsl causes 87. fsl causes yD. P causes 87. P causes yD. 87 causes yD. QgH causes 87. QgH causes yD", "hypothesis": "Are P and fsl d-separated given {QgH}?", "label": "Yes"}
+{"premise": "2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5", "hypothesis": "Are HdP and Q5 d-separated given {P}?", "label": "Yes"}
+{"premise": "k4c causes MUe. k4c causes Ih. Ih causes MUe. I causes MUe. I causes Ih. y causes k4c. y causes MUe", "hypothesis": "Are I and y d-separated given {Ih, k4c}?", "label": "Yes"}
+{"premise": "M causes hYt. voZ causes muP. voZ causes M. voZ causes N5p. hYt causes muP. N5p causes muP. N5p causes hYt", "hypothesis": "Are M and N5p d-separated given {voZ}?", "label": "Yes"}
+{"premise": "Qh causes c1. y causes Qh. y causes UF. y causes c1. ef causes UF. c1 causes UF. c1 causes ef", "hypothesis": "Are Qh and UF d-separated given {c1, ef, y}?", "label": "Yes"}
+{"premise": "nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR", "hypothesis": "Are oFR and oo d-separated given {nZk, s}?", "label": "Yes"}
+{"premise": "O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB", "hypothesis": "Are O and s d-separated given {V, u}?", "label": "Yes"}
+{"premise": "Eo causes IC. Eo causes NF. Eo causes q2. NF causes IC. NF causes q2. NF causes 0. 0 causes IC", "hypothesis": "Are 0 and q2 d-separated given {Eo, NF}?", "label": "Yes"}
+{"premise": "NwQ causes 1i. rSD causes NwQ. rSD causes AXE. rSD causes 1i. dY causes NwQ. dY causes AXE. dY causes 1i", "hypothesis": "Are 1i and AXE d-separated given {NwQ, dY, rSD}?", "label": "Yes"}
+{"premise": "mRu causes h. tSv causes mRu. tSv causes A. A causes mRu. d causes mRu. d causes tSv. d causes A", "hypothesis": "Are A and h d-separated given {mRu}?", "label": "Yes"}
+{"premise": "w1U causes D. w1U causes jhr. mAf causes D. mAf causes jhr. 8x causes w1U. 8x causes D. 8x causes jhr", "hypothesis": "Are D and jhr d-separated given {8x, mAf, w1U}?", "label": "Yes"}
+{"premise": "th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY", "hypothesis": "Are lW and uk d-separated?", "label": "Yes"}
+{"premise": "hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4", "hypothesis": "Are hQ1 and kVH d-separated given {dn4}?", "label": "Yes"}
+{"premise": "8 causes 5w3. 8 causes rfV. 8 causes Qfs. 8 causes 7. Qfs causes rfV. Qfs causes 7. 7 causes rfV", "hypothesis": "Are 5w3 and rfV d-separated given {7, 8}?", "label": "Yes"}
+{"premise": "a causes 8v. a causes fg6. a causes nYK. fg6 causes 8v. fg6 causes nYK. nYK causes 5Hr. 5Hr causes 8v", "hypothesis": "Are 5Hr and a d-separated given {nYK}?", "label": "Yes"}
+{"premise": "Eo causes IC. Eo causes NF. Eo causes q2. NF causes IC. NF causes q2. NF causes 0. 0 causes IC", "hypothesis": "Are 0 and q2 d-separated given {NF}?", "label": "Yes"}
+{"premise": "G causes LS. G causes g. G causes b. 56 causes G. 56 causes LS. 56 causes b. b causes LS", "hypothesis": "Are LS and g d-separated given {G}?", "label": "Yes"}
+{"premise": "XZf causes TT4. XZf causes k1. XZf causes thF. k1 causes TT4. k1 causes mzj. thF causes TT4. thF causes k1", "hypothesis": "Are XZf and mzj d-separated given {TT4, k1}?", "label": "Yes"}
+{"premise": "y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K", "hypothesis": "Are 4 and y d-separated given {l, u}?", "label": "Yes"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are j and z3U d-separated given {gZ, qqF}?", "label": "Yes"}
+{"premise": "RE causes xFC. RE causes a. 6wL causes RE. 6wL causes xFC. 6wL causes 6. 6 causes RE. 6 causes xFC", "hypothesis": "Are a and xFC d-separated given {6wL, RE}?", "label": "Yes"}
+{"premise": "qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw", "hypothesis": "Are J and nw d-separated given {Iq, qoe, ro}?", "label": "Yes"}
+{"premise": "2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9", "hypothesis": "Are 2U and sr d-separated?", "label": "Yes"}
+{"premise": "ZB causes L. ZB causes 3. zdP causes L. Xg causes ZB. Xg causes L. Xg causes 3. L causes 3", "hypothesis": "Are 3 and zdP d-separated given {L, Xg, ZB}?", "label": "Yes"}
+{"premise": "g causes DJ. cP causes g. cP causes xp. cP causes DJ. x0 causes g. x0 causes xp. x0 causes DJ", "hypothesis": "Are DJ and xp d-separated given {cP, g, x0}?", "label": "Yes"}
+{"premise": "D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N", "hypothesis": "Are 9 and D d-separated given {5, N}?", "label": "Yes"}
+{"premise": "VN causes h. 9Y causes h. 9Y causes UbS. W causes VN. W causes h. W causes UbS. UbS causes VN", "hypothesis": "Are UbS and h d-separated given {9Y, VN, W}?", "label": "Yes"}
+{"premise": "3 causes woq. 3 causes F. 3 causes fTR. 3 causes smX. woq causes fTR. woq causes smX. F causes fTR", "hypothesis": "Are F and smX d-separated given {3, woq}?", "label": "Yes"}
+{"premise": "wE causes X. wE causes Ryk. 7H causes 9K. 7H causes Ryk. X causes 7H. X causes Ryk. Ryk causes 9K", "hypothesis": "Are 9K and X d-separated given {7H, Ryk, wE}?", "label": "Yes"}
+{"premise": "1d causes 901. 1d causes B. B causes 901. B causes Z4Y. D causes 901. D causes Z4Y. Z4Y causes 901", "hypothesis": "Are B and D d-separated?", "label": "Yes"}
+{"premise": "z causes oe. 5 causes oe. 5 causes 0QN. 5 causes m2. 0QN causes oe. 0QN causes m2. m2 causes oe", "hypothesis": "Are 0QN and z d-separated?", "label": "Yes"}
+{"premise": "usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4", "hypothesis": "Are Mj and W d-separated given {Wz}?", "label": "Yes"}
+{"premise": "R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S", "hypothesis": "Are Rc and S d-separated given {O, R, xR}?", "label": "Yes"}
+{"premise": "Yg causes j. Yg causes gG. Yg causes t. Yg causes Q. gG causes j. gG causes Q. t causes j", "hypothesis": "Are Q and t d-separated given {Yg, gG, j}?", "label": "Yes"}
+{"premise": "2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO", "hypothesis": "Are FO and GKj d-separated given {2pd, oi}?", "label": "Yes"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are gZ and j d-separated?", "label": "Yes"}
+{"premise": "D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N", "hypothesis": "Are 9 and h d-separated given {5, D, N}?", "label": "Yes"}
+{"premise": "P causes g. P causes d0v. g causes d0v. DxD causes P. DxD causes g. DxD causes d0v. 7Fr causes d0v", "hypothesis": "Are 7Fr and g d-separated given {DxD}?", "label": "Yes"}
+{"premise": "mx causes u. k causes mx. k causes u. g2 causes mx. g2 causes k. 1 causes k. 1 causes u", "hypothesis": "Are 1 and g2 d-separated?", "label": "Yes"}
+{"premise": "q1V causes eJ. Uzb causes q1V. Uzb causes eJ. Od causes q1V. Od causes 7oW. 7oW causes q1V. 7oW causes Uzb", "hypothesis": "Are Od and eJ d-separated given {7oW, Uzb, q1V}?", "label": "Yes"}
+{"premise": "v causes 2. v causes Q. f causes 2. f causes v. f causes Q. Q causes 2. ez9 causes 2", "hypothesis": "Are ez9 and v d-separated given {f}?", "label": "Yes"}
+{"premise": "V causes Ty. V causes 1f. V causes Ao. Ty causes 7v. 1f causes Ty. 1f causes Ao. 1f causes 7v", "hypothesis": "Are Ao and Ty d-separated given {1f, 7v, V}?", "label": "Yes"}
+{"premise": "Uza causes A5G. Uza causes zLZ. Uza causes zC. Uza causes 7. zLZ causes zC. 7 causes zLZ. 7 causes zC", "hypothesis": "Are 7 and A5G d-separated given {Uza}?", "label": "Yes"}
+{"premise": "kP8 causes C. U causes kP8. U causes C. USN causes kP8. USN causes Jau. USN causes C. Jau causes U", "hypothesis": "Are Jau and kP8 d-separated given {C, U, USN}?", "label": "Yes"}
+{"premise": "Qh causes c1. y causes Qh. y causes UF. y causes c1. ef causes UF. c1 causes UF. c1 causes ef", "hypothesis": "Are Qh and ef d-separated given {c1, y}?", "label": "Yes"}
+{"premise": "Z6C causes y. y causes q. 45y causes gQd. 45y causes Z6C. 45y causes y. 45y causes q. q causes gQd", "hypothesis": "Are gQd and y d-separated given {45y, q}?", "label": "Yes"}
+{"premise": "O causes K. bRt causes K. bRt causes b. n causes bRt. n causes K. b causes O. b causes K", "hypothesis": "Are b and n d-separated given {bRt}?", "label": "Yes"}
+{"premise": "I causes ZJ. 2o causes ZJ. 2o causes rYL. 2o causes Q9. Q9 causes I. Q9 causes ZJ. Q9 causes rYL", "hypothesis": "Are ZJ and rYL d-separated given {2o, I, Q9}?", "label": "Yes"}
+{"premise": "bJ9 causes s. pS causes 7. cp causes pS. cp causes 7. s causes pS. s causes cp. s causes 7", "hypothesis": "Are bJ9 and pS d-separated given {s}?", "label": "Yes"}
+{"premise": "nZk causes lF. oo causes lF. oFR causes nZk. oFR causes lF. s causes lF. s causes oo. s causes oFR", "hypothesis": "Are nZk and oo d-separated given {s}?", "label": "Yes"}
+{"premise": "N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t", "hypothesis": "Are ARz and wu d-separated given {N}?", "label": "Yes"}
+{"premise": "bJ9 causes s. pS causes 7. cp causes pS. cp causes 7. s causes pS. s causes cp. s causes 7", "hypothesis": "Are bJ9 and cp d-separated given {7, pS, s}?", "label": "Yes"}
+{"premise": "23 causes u. 23 causes l. u causes l. 0pH causes 23. 0pH causes zv. zv causes 23. zv causes u", "hypothesis": "Are 0pH and l d-separated given {23, u, zv}?", "label": "Yes"}
+{"premise": "y1X causes j3E. y1X causes PN. H18 causes y1X. H18 causes Vs. H18 causes j3E. Vs causes j3E. j3E causes PN", "hypothesis": "Are PN and Vs d-separated given {j3E, y1X}?", "label": "Yes"}
+{"premise": "E causes u. a causes 1. a causes u. a causes ijd. 1 causes u. 1 causes ijd. ijd causes u", "hypothesis": "Are 1 and E d-separated given {a}?", "label": "Yes"}
+{"premise": "IMn causes QEG. BK causes IMn. BK causes QEG. v causes IMn. v causes QEG. M causes v. M causes QEG", "hypothesis": "Are BK and M d-separated given {v}?", "label": "Yes"}
+{"premise": "gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G", "hypothesis": "Are gL and t d-separated given {M, x}?", "label": "Yes"}
+{"premise": "usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4", "hypothesis": "Are W and r4 d-separated given {Mj, usv}?", "label": "No"}
+{"premise": "2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO", "hypothesis": "Are N4s and oi d-separated given {2pd, FO, GKj}?", "label": "No"}
+{"premise": "G causes j. o2 causes 8. o2 causes G. o2 causes j. o2 causes Fe. Fe causes 8. Fe causes j", "hypothesis": "Are 8 and o2 d-separated given {Fe, G}?", "label": "No"}
+{"premise": "j causes TB. j causes nn. j causes xv. nn causes TB. nn causes xv. nn causes i. i causes TB", "hypothesis": "Are TB and i d-separated given {j, nn}?", "label": "No"}
+{"premise": "dF causes 6b. dF causes PR. Jm causes 6b. Jm causes dF. cFn causes 6b. cFn causes dF. cFn causes PR", "hypothesis": "Are PR and dF d-separated given {Jm, cFn}?", "label": "No"}
+{"premise": "OTt causes di. di causes Y. d causes Y. d causes di. eH causes Y. eH causes di. eH causes d", "hypothesis": "Are Y and eH d-separated given {di}?", "label": "No"}
+{"premise": "yJ causes my. yJ causes 9. XIl causes yJ. XIl causes 9. B causes my. B causes yJ. 9 causes my", "hypothesis": "Are 9 and XIl d-separated given {B, yJ}?", "label": "No"}
+{"premise": "Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8", "hypothesis": "Are Kv and L d-separated?", "label": "No"}
+{"premise": "y1X causes j3E. y1X causes PN. H18 causes y1X. H18 causes Vs. H18 causes j3E. Vs causes j3E. j3E causes PN", "hypothesis": "Are Vs and j3E d-separated given {H18}?", "label": "No"}
+{"premise": "Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i", "hypothesis": "Are 3R and i d-separated given {1}?", "label": "No"}
+{"premise": "2PB causes WGZ. 2PB causes 3f. WGZ causes 3f. Q causes 2PB. Q causes WGZ. Q causes 3f. a causes Q", "hypothesis": "Are 2PB and Q d-separated?", "label": "No"}
+{"premise": "qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw", "hypothesis": "Are nw and ro d-separated?", "label": "No"}
+{"premise": "sr causes xTb. sr causes SE. sr causes D. xTb causes SE. qDn causes xTb. qDn causes SE. qDn causes D", "hypothesis": "Are D and sr d-separated given {qDn, xTb}?", "label": "No"}
+{"premise": "o causes e. o causes dR. z8b causes o. z8b causes FnR. e causes FnR. e causes dR. dR causes FnR", "hypothesis": "Are FnR and z8b d-separated given {dR, e, o}?", "label": "No"}
+{"premise": "g causes no. s causes g. ixl causes g. ixl causes s. 2kn causes g. 2kn causes s. 2kn causes no", "hypothesis": "Are 2kn and no d-separated given {g, s}?", "label": "No"}
+{"premise": "l causes u. l causes NLl. l causes i3o. u causes T9O. u causes i3o. NLl causes u. NLl causes i3o", "hypothesis": "Are i3o and u d-separated given {l}?", "label": "No"}
+{"premise": "U causes FR4. U causes c. U causes ju. FR4 causes t. t causes ju. c causes FR4. c causes t", "hypothesis": "Are U and t d-separated given {c, ju}?", "label": "No"}
+{"premise": "lQ causes K. zug causes K. zug causes wpr. zug causes bI. K causes wpr. K causes bI. bI causes wpr", "hypothesis": "Are K and bI d-separated given {lQ, zug}?", "label": "No"}
+{"premise": "gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO", "hypothesis": "Are gbg and kk d-separated given {p}?", "label": "No"}
+{"premise": "sxE causes mIw. sxE causes 8. mIw causes 2. jt causes mIw. jt causes 2. jt causes 8. 2 causes 8", "hypothesis": "Are 2 and mIw d-separated given {8}?", "label": "No"}
+{"premise": "2 causes 1T. XS causes 2. XS causes 58. XS causes 1T. R causes 58. R causes 1T. 1T causes 58", "hypothesis": "Are 1T and R d-separated given {2, XS}?", "label": "No"}
+{"premise": "1d causes 901. 1d causes B. B causes 901. B causes Z4Y. D causes 901. D causes Z4Y. Z4Y causes 901", "hypothesis": "Are 901 and Z4Y d-separated given {1d, B}?", "label": "No"}
+{"premise": "9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ", "hypothesis": "Are 9Z1 and oJ d-separated given {WG, b2}?", "label": "No"}
+{"premise": "D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N", "hypothesis": "Are 5 and h d-separated?", "label": "No"}
+{"premise": "Y causes Q. Y causes N. Y causes 4. Q causes N. j causes N. j causes 4. 4 causes N", "hypothesis": "Are Q and j d-separated given {4, N}?", "label": "No"}
+{"premise": "WK causes h. WK causes 5D. WK causes 66. h causes 5D. 7 causes WK. 7 causes h. 7 causes 66", "hypothesis": "Are 7 and WK d-separated given {5D, 66}?", "label": "No"}
+{"premise": "lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9", "hypothesis": "Are WV8 and lpV d-separated given {Vr, g}?", "label": "No"}
+{"premise": "WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h", "hypothesis": "Are 47 and WAy d-separated given {2h}?", "label": "No"}
+{"premise": "3os causes M9T. 3os causes I. 3os causes lk. T8x causes M9T. T8x causes I. T8x causes lk. lk causes M9T", "hypothesis": "Are 3os and T8x d-separated given {I, M9T}?", "label": "No"}
+{"premise": "bJ9 causes s. pS causes 7. cp causes pS. cp causes 7. s causes pS. s causes cp. s causes 7", "hypothesis": "Are cp and s d-separated given {7, pS}?", "label": "No"}
+{"premise": "Uz causes MHs. Uz causes SC. 7Y causes b. MHs causes 7Y. MHs causes b. MHs causes SC. SC causes 7Y", "hypothesis": "Are Uz and b d-separated given {7Y}?", "label": "No"}
+{"premise": "w6 causes I. CW causes w6. CW causes D. CW causes q0. CW causes I. I causes D. I causes q0", "hypothesis": "Are D and I d-separated given {CW}?", "label": "No"}
+{"premise": "Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4", "hypothesis": "Are Ekz and w5y d-separated given {PI, d4}?", "label": "No"}
+{"premise": "R causes o5e. R causes 4. LR9 causes 4. LR9 causes y. o5e causes 4. y causes R. y causes o5e", "hypothesis": "Are 4 and R d-separated given {LR9, o5e, y}?", "label": "No"}
+{"premise": "D causes N. D causes 5. N causes h. N causes 9. 5 causes h. 5 causes 9. 5 causes N", "hypothesis": "Are 9 and N d-separated given {5, h}?", "label": "No"}
+{"premise": "Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8", "hypothesis": "Are G and Kv d-separated given {2bp, L}?", "label": "No"}
+{"premise": "2PD causes Gqw. 89 causes 2PD. 89 causes Gqw. T causes 2PD. T causes Gqw. PB causes 2PD. PB causes 89", "hypothesis": "Are Gqw and PB d-separated given {T}?", "label": "No"}
+{"premise": "MUf causes h. MUf causes Viq. MUf causes Hz. Viq causes Hz. Viq causes t. Hz causes h. Hz causes t", "hypothesis": "Are MUf and Viq d-separated given {Hz, h, t}?", "label": "No"}
+{"premise": "l causes RLh. l causes SuX. RLh causes SuX. 8 causes RLh. 8 causes SuX. o causes RLh. o causes SuX", "hypothesis": "Are SuX and l d-separated given {RLh, o}?", "label": "No"}
+{"premise": "R causes o5e. R causes 4. LR9 causes 4. LR9 causes y. o5e causes 4. y causes R. y causes o5e", "hypothesis": "Are 4 and R d-separated given {LR9}?", "label": "No"}
+{"premise": "Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo", "hypothesis": "Are s4f and v d-separated given {8wp, Fv, mo}?", "label": "No"}
+{"premise": "kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4", "hypothesis": "Are c and t d-separated given {kU}?", "label": "No"}
+{"premise": "7 causes hlG. 7 causes Ckb. 7 causes 4. g2 causes hlG. hlG causes 4. Ckb causes g2. Ckb causes 4", "hypothesis": "Are 4 and Ckb d-separated given {7, hlG}?", "label": "No"}
+{"premise": "IUK causes k. IUK causes NN. IUK causes R. k causes Dg. NN causes k. NN causes Dg. R causes k", "hypothesis": "Are R and k d-separated given {Dg}?", "label": "No"}
+{"premise": "qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw", "hypothesis": "Are J and qoe d-separated given {nw}?", "label": "No"}
+{"premise": "t causes y. D causes t. D causes y. D causes k. k causes y. j causes t. j causes k", "hypothesis": "Are j and t d-separated given {D, y}?", "label": "No"}
+{"premise": "0 causes 7ll. 7ll causes R. U causes 7ll. U causes B. B causes R. B causes 0. B causes 7ll", "hypothesis": "Are 7ll and R d-separated given {0, B, U}?", "label": "No"}
+{"premise": "r causes PFx. r causes 4. Y3 causes 4. PFx causes 4. q causes r. q causes Y3. q causes PFx", "hypothesis": "Are Y3 and q d-separated given {4}?", "label": "No"}
+{"premise": "R5F causes 5. R5F causes X0l. R5F causes D8O. X0l causes 5. iB causes 5. iB causes X0l. D8O causes X0l", "hypothesis": "Are D8O and iB d-separated given {5, R5F, X0l}?", "label": "No"}
+{"premise": "Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8", "hypothesis": "Are G and L d-separated?", "label": "No"}
+{"premise": "7I causes q. 7I causes iWQ. 7I causes GEP. iWQ causes q. GEP causes q. E causes q. E causes GEP", "hypothesis": "Are 7I and E d-separated given {GEP}?", "label": "No"}
+{"premise": "K causes F0. D causes K. D causes F0. tXk causes F0. Ax causes K. Ax causes D. Ax causes tXk", "hypothesis": "Are D and F0 d-separated given {K}?", "label": "No"}
+{"premise": "c causes I31. r causes c. Hef causes I31. Zk causes I31. Zk causes c. Zk causes r. Zk causes Hef", "hypothesis": "Are I31 and c d-separated given {Zk}?", "label": "No"}
+{"premise": "Bwh causes sV. Bwh causes x7h. Bwh causes T. Bwh causes Bb. T causes sV. T causes x7h. Bb causes T", "hypothesis": "Are Bwh and T d-separated?", "label": "No"}
+{"premise": "E causes u. a causes 1. a causes u. a causes ijd. 1 causes u. 1 causes ijd. ijd causes u", "hypothesis": "Are E and a d-separated given {ijd, u}?", "label": "No"}
+{"premise": "qer causes U85. qer causes U. U85 causes U. l causes qer. l causes U. 0 causes qer. 0 causes U85", "hypothesis": "Are U85 and qer d-separated?", "label": "No"}
+{"premise": "E4 causes GnR. E4 causes 02. 02 causes GnR. 02 causes 1h. 0m causes E4. 0m causes GnR. 0m causes 1h", "hypothesis": "Are 02 and E4 d-separated given {1h}?", "label": "No"}
+{"premise": "N causes ARz. aQ causes N. aQ causes t. t causes N. wu causes N. wu causes aQ. wu causes t", "hypothesis": "Are ARz and N d-separated given {t, wu}?", "label": "No"}
+{"premise": "Z6C causes y. y causes q. 45y causes gQd. 45y causes Z6C. 45y causes y. 45y causes q. q causes gQd", "hypothesis": "Are 45y and q d-separated given {gQd, y}?", "label": "No"}
+{"premise": "YH causes vN. vN causes YD. pkY causes YH. pkY causes YD. pkY causes 7. 7 causes YH. 7 causes YD", "hypothesis": "Are 7 and pkY d-separated?", "label": "No"}
+{"premise": "2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO", "hypothesis": "Are 2pd and FO d-separated given {GKj, N4s}?", "label": "No"}
+{"premise": "9Z1 causes WG. 9Z1 causes ypt. 9Z1 causes oJ. WG causes oJ. b2 causes 9Z1. b2 causes WG. b2 causes oJ", "hypothesis": "Are 9Z1 and b2 d-separated given {ypt}?", "label": "No"}
+{"premise": "HSx causes 1v. HSx causes 4. Vx causes 1v. Vx causes 4. EKD causes HSx. EKD causes Vx. EKD causes 4", "hypothesis": "Are 1v and EKD d-separated?", "label": "No"}
+{"premise": "6uQ causes 2OB. 1z causes 6uQ. 1z causes lT. 2OB causes lT. zT causes 6uQ. zT causes 1z. zT causes lT", "hypothesis": "Are 1z and zT d-separated given {2OB, 6uQ}?", "label": "No"}
+{"premise": "U causes 7z. U causes ZSn. U causes e. t9 causes 7z. 7z causes e. ZSn causes 7z. ZSn causes e", "hypothesis": "Are U and ZSn d-separated given {7z, e, t9}?", "label": "No"}
+{"premise": "kP8 causes C. U causes kP8. U causes C. USN causes kP8. USN causes Jau. USN causes C. Jau causes U", "hypothesis": "Are Jau and kP8 d-separated given {USN}?", "label": "No"}
+{"premise": "90 causes Jm. 90 causes S. 90 causes U5. Jm causes S. wh causes S. wh causes U5. U5 causes S", "hypothesis": "Are 90 and Jm d-separated?", "label": "No"}
+{"premise": "3 causes mG. 3 causes RoY. vwc causes 3. vwc causes RoY. k causes mG. k causes 3. k causes RoY", "hypothesis": "Are 3 and vwc d-separated given {mG}?", "label": "No"}
+{"premise": "Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i", "hypothesis": "Are 1 and 3R d-separated given {Gct}?", "label": "No"}
+{"premise": "c causes eU. c causes 3lr. 1V causes sX. 1V causes 3lr. eU causes 1V. eU causes sX. 3lr causes sX", "hypothesis": "Are 1V and eU d-separated?", "label": "No"}
+{"premise": "4n causes F. F causes G7o. E causes 4n. E causes G7o. E causes F. E causes 0M. 0M causes G7o", "hypothesis": "Are 4n and F d-separated given {G7o}?", "label": "No"}
+{"premise": "th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY", "hypothesis": "Are lW and t d-separated?", "label": "No"}
+{"premise": "wEX causes W. wEX causes wD. wD causes W. wD causes t. 58Y causes W. 58Y causes t. 58Y causes wD", "hypothesis": "Are W and wD d-separated?", "label": "No"}
+{"premise": "1U causes IS9. M causes 1U. M causes IS9. M causes 38. FHP causes 1U. 38 causes 1U. 38 causes FHP", "hypothesis": "Are 1U and 38 d-separated given {IS9, M}?", "label": "No"}
+{"premise": "L causes F. L causes 0uw. L causes 1AQ. L causes U. F causes 1AQ. 0uw causes 1AQ. U causes 1AQ", "hypothesis": "Are 0uw and F d-separated given {1AQ, L}?", "label": "No"}
+{"premise": "sgS causes Swe. sgS causes OO. Swe causes 9WX. Swe causes OO. 7n causes Swe. 7n causes OO. OO causes 9WX", "hypothesis": "Are 7n and OO d-separated given {9WX, Swe, sgS}?", "label": "No"}
+{"premise": "Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4", "hypothesis": "Are PI and w5y d-separated?", "label": "No"}
+{"premise": "Jz7 causes Ucy. Jz7 causes oeK. oeK causes Ucy. oeK causes WKd. XRx causes Ucy. XRx causes oeK. XRx causes WKd", "hypothesis": "Are XRx and oeK d-separated given {Jz7, Ucy, WKd}?", "label": "No"}
+{"premise": "O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB", "hypothesis": "Are GB and O d-separated given {V, s}?", "label": "No"}
+{"premise": "dF causes 6b. dF causes PR. Jm causes 6b. Jm causes dF. cFn causes 6b. cFn causes dF. cFn causes PR", "hypothesis": "Are 6b and cFn d-separated given {dF}?", "label": "No"}
+{"premise": "hc4 causes rK. hc4 causes u. rK causes i. u causes i. u causes rK. 9N causes hc4. 9N causes rK", "hypothesis": "Are 9N and u d-separated?", "label": "No"}
+{"premise": "gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO", "hypothesis": "Are IvO and kk d-separated given {p}?", "label": "No"}
+{"premise": "w1U causes D. w1U causes jhr. mAf causes D. mAf causes jhr. 8x causes w1U. 8x causes D. 8x causes jhr", "hypothesis": "Are jhr and w1U d-separated given {8x}?", "label": "No"}
+{"premise": "hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4", "hypothesis": "Are dn4 and hQ1 d-separated given {dt, kVH}?", "label": "No"}
+{"premise": "h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA", "hypothesis": "Are 8v and h d-separated given {3jA, BU}?", "label": "No"}
+{"premise": "R5F causes 5. R5F causes X0l. R5F causes D8O. X0l causes 5. iB causes 5. iB causes X0l. D8O causes X0l", "hypothesis": "Are 5 and X0l d-separated given {R5F, iB}?", "label": "No"}
+{"premise": "O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB", "hypothesis": "Are O and V d-separated given {GB, s}?", "label": "No"}
+{"premise": "w1U causes D. w1U causes jhr. mAf causes D. mAf causes jhr. 8x causes w1U. 8x causes D. 8x causes jhr", "hypothesis": "Are mAf and w1U d-separated given {8x, D, jhr}?", "label": "No"}
+{"premise": "b causes os. 0 causes b. 0 causes os. 86 causes b. 86 causes 0. 86 causes os. 2G causes b", "hypothesis": "Are 2G and b d-separated given {0, 86}?", "label": "No"}
+{"premise": "i causes Y7i. BV causes Y7i. BV causes H9. BV causes od. od causes Y7i. od causes i. od causes H9", "hypothesis": "Are BV and Y7i d-separated given {H9}?", "label": "No"}
+{"premise": "Kv causes x8. Kv causes L. Kv causes G. 2bp causes Kv. 2bp causes x8. 2bp causes G. G causes x8", "hypothesis": "Are 2bp and L d-separated given {x8}?", "label": "No"}
+{"premise": "23 causes u. 23 causes l. u causes l. 0pH causes 23. 0pH causes zv. zv causes 23. zv causes u", "hypothesis": "Are 0pH and zv d-separated given {23, l, u}?", "label": "No"}
+{"premise": "M causes hYt. voZ causes muP. voZ causes M. voZ causes N5p. hYt causes muP. N5p causes muP. N5p causes hYt", "hypothesis": "Are N5p and hYt d-separated?", "label": "No"}
+{"premise": "ntU causes nH4. ntU causes Dh1. aX causes Dh1. Dh1 causes nH4. B causes ntU. B causes nH4. B causes aX", "hypothesis": "Are Dh1 and ntU d-separated given {B, nH4}?", "label": "No"}
+{"premise": "A causes 3. A causes skS. 14I causes 3. 14I causes skS. skS causes 3. H9 causes 3. H9 causes skS", "hypothesis": "Are 14I and 3 d-separated?", "label": "No"}
+{"premise": "IL causes m. 8 causes A. 8 causes m. OkP causes IL. OkP causes A. A causes IL. A causes m", "hypothesis": "Are IL and m d-separated given {8, OkP}?", "label": "No"}
+{"premise": "aC causes 9. aC causes rAI. 9 causes c. rAI causes 9. rAI causes W. W causes c. W causes 9", "hypothesis": "Are 9 and rAI d-separated?", "label": "No"}
+{"premise": "fsl causes 87. fsl causes yD. P causes 87. P causes yD. 87 causes yD. QgH causes 87. QgH causes yD", "hypothesis": "Are 87 and yD d-separated given {P, QgH}?", "label": "No"}
+{"premise": "Stu causes ECZ. Stu causes TZj. TZj causes ECZ. zrt causes Stu. zrt causes ECZ. zrt causes qFS. qFS causes ECZ", "hypothesis": "Are qFS and zrt d-separated given {ECZ, Stu}?", "label": "No"}
+{"premise": "Fv causes 8wp. Fv causes mo. Fv causes s4f. v causes mo. s4f causes 8wp. s4f causes v. s4f causes mo", "hypothesis": "Are mo and s4f d-separated given {8wp, v}?", "label": "No"}
+{"premise": "Owh causes ih. x causes Ho. x causes ih. O causes Owh. O causes x. O causes ih. ih causes Ho", "hypothesis": "Are O and Owh d-separated?", "label": "No"}
+{"premise": "L causes F. L causes 0uw. L causes 1AQ. L causes U. F causes 1AQ. 0uw causes 1AQ. U causes 1AQ", "hypothesis": "Are F and L d-separated given {0uw, U}?", "label": "No"}
+{"premise": "HSx causes 1v. HSx causes 4. Vx causes 1v. Vx causes 4. EKD causes HSx. EKD causes Vx. EKD causes 4", "hypothesis": "Are EKD and Vx d-separated given {1v, 4}?", "label": "No"}
+{"premise": "O causes m. m6V causes O. m6V causes 2T. m6V causes dZ. m6V causes m. 2T causes O. 2T causes m", "hypothesis": "Are m and m6V d-separated?", "label": "No"}
+{"premise": "kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4", "hypothesis": "Are k and t d-separated given {V4, c}?", "label": "No"}
+{"premise": "6o causes Qq. 6o causes JY. Qq causes c2K. J causes 6o. J causes c2K. JY causes Qq. JY causes c2K", "hypothesis": "Are 6o and JY d-separated given {J, c2K}?", "label": "No"}
+{"premise": "UcA causes iqn. UcA causes L. ER causes UcA. ER causes iqn. ER causes L. 9eF causes UcA. 9eF causes L", "hypothesis": "Are 9eF and L d-separated given {UcA}?", "label": "No"}
+{"premise": "I causes ZJ. 2o causes ZJ. 2o causes rYL. 2o causes Q9. Q9 causes I. Q9 causes ZJ. Q9 causes rYL", "hypothesis": "Are 2o and Q9 d-separated given {I, ZJ}?", "label": "No"}
+{"premise": "ntU causes nH4. ntU causes Dh1. aX causes Dh1. Dh1 causes nH4. B causes ntU. B causes nH4. B causes aX", "hypothesis": "Are nH4 and ntU d-separated given {Dh1, aX}?", "label": "No"}
+{"premise": "3 causes 6. l causes 6. l causes 3. e causes vd8. e causes 6. e causes 3. e causes l", "hypothesis": "Are 3 and vd8 d-separated given {6, l}?", "label": "No"}
+{"premise": "k0 causes vT. ij causes zF. T5 causes k0. T5 causes vT. T5 causes ij. T5 causes zF. zF causes k0", "hypothesis": "Are T5 and k0 d-separated given {vT, zF}?", "label": "No"}
+{"premise": "ksQ causes n. 6b6 causes ksQ. 6b6 causes 8. 6b6 causes n. 8 causes 5Bc. 8 causes n. 5Bc causes n", "hypothesis": "Are 5Bc and ksQ d-separated?", "label": "No"}
+{"premise": "q1V causes eJ. Uzb causes q1V. Uzb causes eJ. Od causes q1V. Od causes 7oW. 7oW causes q1V. 7oW causes Uzb", "hypothesis": "Are Od and q1V d-separated given {7oW, Uzb}?", "label": "No"}
+{"premise": "h causes BU. h causes Vci. h causes 8v. BU causes 3jA. Vci causes 3jA. Vci causes BU. 8v causes 3jA", "hypothesis": "Are BU and Vci d-separated given {8v, h}?", "label": "No"}
+{"premise": "Zue causes 3dW. Zue causes p8. M causes 3dW. M causes p8. 3dW causes p8. lW causes Zue. lW causes 3dW", "hypothesis": "Are M and lW d-separated given {3dW}?", "label": "No"}
+{"premise": "e causes 26. e causes h. Gs causes 26. DD causes Gs. DD causes 26. DD causes h. h causes Gs", "hypothesis": "Are DD and Gs d-separated given {e, h}?", "label": "No"}
+{"premise": "aC causes 9. aC causes rAI. 9 causes c. rAI causes 9. rAI causes W. W causes c. W causes 9", "hypothesis": "Are 9 and c d-separated given {W, rAI}?", "label": "No"}
+{"premise": "q1V causes eJ. Uzb causes q1V. Uzb causes eJ. Od causes q1V. Od causes 7oW. 7oW causes q1V. 7oW causes Uzb", "hypothesis": "Are 7oW and eJ d-separated given {q1V}?", "label": "No"}
+{"premise": "qSE causes oj. WWq causes qSE. WWq causes oj. WWq causes h. k causes WWq. k causes oj. k causes h", "hypothesis": "Are WWq and h d-separated given {k, oj, qSE}?", "label": "No"}
+{"premise": "OTt causes di. di causes Y. d causes Y. d causes di. eH causes Y. eH causes di. eH causes d", "hypothesis": "Are di and eH d-separated given {d}?", "label": "No"}
+{"premise": "QO causes d. d causes A. u causes A. vzU causes QO. vzU causes A. vzU causes d. vzU causes u", "hypothesis": "Are QO and d d-separated given {u, vzU}?", "label": "No"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are j and z3U d-separated given {RQ, gZ, qqF}?", "label": "No"}
+{"premise": "9gk causes bKd. 9gk causes N. O causes 9gk. O causes bKd. O causes Qi. N causes bKd. Qi causes bKd", "hypothesis": "Are Qi and bKd d-separated given {O}?", "label": "No"}
+{"premise": "9gk causes bKd. 9gk causes N. O causes 9gk. O causes bKd. O causes Qi. N causes bKd. Qi causes bKd", "hypothesis": "Are N and bKd d-separated?", "label": "No"}
+{"premise": "wEX causes W. wEX causes wD. wD causes W. wD causes t. 58Y causes W. 58Y causes t. 58Y causes wD", "hypothesis": "Are 58Y and t d-separated given {wEX}?", "label": "No"}
+{"premise": "US causes Svv. US causes 3. K causes tMF. K causes Svv. K causes 3. Svv causes tMF. 3 causes tMF", "hypothesis": "Are K and tMF d-separated given {3, Svv, US}?", "label": "No"}
+{"premise": "ALU causes W8G. ALU causes i. nK causes W8G. nK causes i. lm causes ALU. lm causes W8G. i causes W8G", "hypothesis": "Are W8G and lm d-separated given {ALU, i}?", "label": "No"}
+{"premise": "Zsu causes 6Q. Zsu causes U9. kq2 causes 6Q. kq2 causes U9. U9 causes 6Q. h causes 6Q. h causes Zsu", "hypothesis": "Are Zsu and kq2 d-separated given {6Q, U9}?", "label": "No"}
+{"premise": "cH causes L. to causes L. to causes cH. to causes GN2. GN2 causes L. GN2 causes cH. GN2 causes OAx", "hypothesis": "Are OAx and to d-separated given {L}?", "label": "No"}
+{"premise": "U causes d. U causes zzv. zzv causes d. Jes causes d. Jes causes 72C. 72C causes d. 72C causes zzv", "hypothesis": "Are d and zzv d-separated given {72C, Jes, U}?", "label": "No"}
+{"premise": "6qr causes F4Q. 6qr causes 8. lRx causes 6qr. lRx causes 8. F4Q causes 8. Eb causes lRx. Eb causes F4Q", "hypothesis": "Are Eb and lRx d-separated given {6qr}?", "label": "No"}
+{"premise": "h causes q. h causes HP. h causes Rn. d causes q. d causes HP. Rn causes d. Rn causes HP", "hypothesis": "Are Rn and h d-separated given {HP}?", "label": "No"}
+{"premise": "kP8 causes C. U causes kP8. U causes C. USN causes kP8. USN causes Jau. USN causes C. Jau causes U", "hypothesis": "Are U and kP8 d-separated given {Jau, USN}?", "label": "No"}
+{"premise": "21E causes o. 21E causes 4E. 4E causes o. s4 causes 21E. sI causes o. sI causes 21E. sI causes 4E", "hypothesis": "Are 21E and sI d-separated given {o, s4}?", "label": "No"}
+{"premise": "3Vx causes F9. 3Vx causes h. 3Vx causes 5. h causes F9. 5 causes F9. 5 causes f. 5 causes h", "hypothesis": "Are 5 and h d-separated given {3Vx, f}?", "label": "No"}
+{"premise": "dF causes 6b. dF causes PR. Jm causes 6b. Jm causes dF. cFn causes 6b. cFn causes dF. cFn causes PR", "hypothesis": "Are 6b and PR d-separated given {dF}?", "label": "No"}
+{"premise": "y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K", "hypothesis": "Are l and y d-separated?", "label": "No"}
+{"premise": "k causes HVI. k causes gz. k causes x. 3 causes HVI. 3 causes gz. 3 causes x. x causes HVI", "hypothesis": "Are HVI and x d-separated given {3, gz, k}?", "label": "No"}
+{"premise": "21E causes o. 21E causes 4E. 4E causes o. s4 causes 21E. sI causes o. sI causes 21E. sI causes 4E", "hypothesis": "Are 21E and 4E d-separated given {o, s4, sI}?", "label": "No"}
+{"premise": "c causes I31. r causes c. Hef causes I31. Zk causes I31. Zk causes c. Zk causes r. Zk causes Hef", "hypothesis": "Are I31 and c d-separated?", "label": "No"}
+{"premise": "WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h", "hypothesis": "Are 47 and 75 d-separated given {WAy}?", "label": "No"}
+{"premise": "v9v causes AE. FvQ causes v9v. FvQ causes AE. 0CN causes gAM. gAM causes v9v. gAM causes FvQ. gAM causes AE", "hypothesis": "Are gAM and v9v d-separated given {0CN, AE, FvQ}?", "label": "No"}
+{"premise": "IMn causes QEG. BK causes IMn. BK causes QEG. v causes IMn. v causes QEG. M causes v. M causes QEG", "hypothesis": "Are M and QEG d-separated given {BK, v}?", "label": "No"}
+{"premise": "O causes mO. O causes ZHP. O causes CR. ZHP causes mO. s5 causes mO. s5 causes O. s5 causes CR", "hypothesis": "Are CR and s5 d-separated given {mO}?", "label": "No"}
+{"premise": "iw causes H. rsN causes iw. rsN causes Bh. Bh causes iw. Bh causes H. W causes Bh. W causes H", "hypothesis": "Are H and W d-separated given {Bh}?", "label": "No"}
+{"premise": "O causes mO. O causes ZHP. O causes CR. ZHP causes mO. s5 causes mO. s5 causes O. s5 causes CR", "hypothesis": "Are CR and O d-separated given {ZHP, mO, s5}?", "label": "No"}
+{"premise": "Zue causes 3dW. Zue causes p8. M causes 3dW. M causes p8. 3dW causes p8. lW causes Zue. lW causes 3dW", "hypothesis": "Are 3dW and M d-separated given {Zue, lW, p8}?", "label": "No"}
+{"premise": "h causes vJ. To1 causes h. To1 causes D. KLF causes vJ. KLF causes D. D causes h. D causes vJ", "hypothesis": "Are KLF and h d-separated given {D, vJ}?", "label": "No"}
+{"premise": "fD causes fym. fD causes PGV. fD causes 0. fD causes j. PGV causes fym. PGV causes 0. 0 causes fym", "hypothesis": "Are PGV and fD d-separated given {j}?", "label": "No"}
+{"premise": "2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9", "hypothesis": "Are 2U and xp d-separated given {9}?", "label": "No"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are RQ and qqF d-separated given {z3U}?", "label": "No"}
+{"premise": "lQ causes K. zug causes K. zug causes wpr. zug causes bI. K causes wpr. K causes bI. bI causes wpr", "hypothesis": "Are lQ and zug d-separated given {wpr}?", "label": "No"}
+{"premise": "qoe causes nw. qoe causes J. Iq causes qoe. Iq causes nw. Iq causes ro. ro causes qoe. ro causes nw", "hypothesis": "Are Iq and nw d-separated given {J}?", "label": "No"}
+{"premise": "kU causes V4. c causes V4. c causes t. k causes V4. t causes kU. t causes k. t causes V4", "hypothesis": "Are kU and t d-separated given {V4, k}?", "label": "No"}
+{"premise": "T causes C0. T causes S. T causes HpL. T causes yW. C0 causes HpL. HpL causes S. yW causes HpL", "hypothesis": "Are C0 and yW d-separated given {S}?", "label": "No"}
+{"premise": "iw causes H. rsN causes iw. rsN causes Bh. Bh causes iw. Bh causes H. W causes Bh. W causes H", "hypothesis": "Are W and iw d-separated?", "label": "No"}
+{"premise": "Xf causes L. Xf causes 5. qd causes 5. L causes qd. L causes 5. q1 causes qd. q1 causes 5", "hypothesis": "Are L and Xf d-separated given {5}?", "label": "No"}
+{"premise": "i8 causes yE. i8 causes C. FvZ causes i8. FvZ causes yE. PZl causes i8. PZl causes FvZ. C causes yE", "hypothesis": "Are C and yE d-separated given {FvZ, PZl}?", "label": "No"}
+{"premise": "5 causes l. 5 causes G. G causes l. b causes 5. b causes G. g causes l. g causes G", "hypothesis": "Are G and l d-separated?", "label": "No"}
+{"premise": "NwQ causes 1i. rSD causes NwQ. rSD causes AXE. rSD causes 1i. dY causes NwQ. dY causes AXE. dY causes 1i", "hypothesis": "Are 1i and AXE d-separated given {NwQ, rSD}?", "label": "No"}
+{"premise": "3Vx causes F9. 3Vx causes h. 3Vx causes 5. h causes F9. 5 causes F9. 5 causes f. 5 causes h", "hypothesis": "Are 3Vx and F9 d-separated given {h}?", "label": "No"}
+{"premise": "v causes 2. v causes Q. f causes 2. f causes v. f causes Q. Q causes 2. ez9 causes 2", "hypothesis": "Are Q and ez9 d-separated given {2, f, v}?", "label": "No"}
+{"premise": "2f2 causes 2. 2f2 causes HdP. Q5 causes 2. P causes 2. P causes HdP. P causes 2f2. P causes Q5", "hypothesis": "Are P and Q5 d-separated?", "label": "No"}
+{"premise": "E4 causes GnR. E4 causes 02. 02 causes GnR. 02 causes 1h. 0m causes E4. 0m causes GnR. 0m causes 1h", "hypothesis": "Are 02 and 1h d-separated?", "label": "No"}
+{"premise": "s causes iFQ. o6 causes C1. o6 causes iFQ. iFQ causes C1. Zmq causes C1. Zmq causes s. Zmq causes iFQ", "hypothesis": "Are iFQ and o6 d-separated given {Zmq, s}?", "label": "No"}
+{"premise": "pAw causes gv1. pAw causes qE. qE causes A. qw causes A. qw causes gv1. qw causes pAw. qw causes qE", "hypothesis": "Are A and pAw d-separated given {gv1, qE}?", "label": "No"}
+{"premise": "c causes I31. r causes c. Hef causes I31. Zk causes I31. Zk causes c. Zk causes r. Zk causes Hef", "hypothesis": "Are Hef and r d-separated given {I31, c}?", "label": "No"}
+{"premise": "i causes Y7i. BV causes Y7i. BV causes H9. BV causes od. od causes Y7i. od causes i. od causes H9", "hypothesis": "Are BV and Y7i d-separated given {i}?", "label": "No"}
+{"premise": "y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K", "hypothesis": "Are 4 and u d-separated given {l, y}?", "label": "No"}
+{"premise": "w causes Wl. w causes HDy. w causes c. Wl causes c. HDy causes c. HeZ causes Wl. HeZ causes c", "hypothesis": "Are HDy and w d-separated given {Wl, c}?", "label": "No"}
+{"premise": "rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l", "hypothesis": "Are OGh and e d-separated given {rkJ}?", "label": "No"}
+{"premise": "a causes V. 0WD causes V. 0WD causes a. 0WD causes mn. C causes a. C causes 0WD. mn causes V", "hypothesis": "Are 0WD and V d-separated given {a, mn}?", "label": "No"}
+{"premise": "hc4 causes rK. hc4 causes u. rK causes i. u causes i. u causes rK. 9N causes hc4. 9N causes rK", "hypothesis": "Are 9N and rK d-separated given {hc4, u}?", "label": "No"}
+{"premise": "W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc", "hypothesis": "Are kl and zpc d-separated given {STg, V}?", "label": "No"}
+{"premise": "k causes HVI. k causes gz. k causes x. 3 causes HVI. 3 causes gz. 3 causes x. x causes HVI", "hypothesis": "Are 3 and k d-separated given {gz, x}?", "label": "No"}
+{"premise": "7rr causes 3l. xg9 causes 7rr. xg9 causes TU8. xg9 causes i. 3l causes TU8. i causes 7rr. i causes 3l", "hypothesis": "Are 3l and TU8 d-separated given {7rr, i, xg9}?", "label": "No"}
+{"premise": "WAy causes Uy. WAy causes 47. WAy causes 75. Uy causes 47. Uy causes 2h. 75 causes 47. 75 causes 2h", "hypothesis": "Are Uy and WAy d-separated given {2h}?", "label": "No"}
+{"premise": "Q6R causes Y. G causes Y. G causes Q6R. G causes B. Rc causes Y. Rc causes Q6R. Rc causes B", "hypothesis": "Are G and Rc d-separated given {B, Y}?", "label": "No"}
+{"premise": "fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww", "hypothesis": "Are TFt and w d-separated given {cww, k}?", "label": "No"}
+{"premise": "sxE causes mIw. sxE causes 8. mIw causes 2. jt causes mIw. jt causes 2. jt causes 8. 2 causes 8", "hypothesis": "Are 2 and mIw d-separated given {8, sxE}?", "label": "No"}
+{"premise": "4n causes F. F causes G7o. E causes 4n. E causes G7o. E causes F. E causes 0M. 0M causes G7o", "hypothesis": "Are 4n and E d-separated given {0M, F}?", "label": "No"}
+{"premise": "Gct causes i. Gct causes 1. Gct causes 3R. i causes 1. i causes 3R. 1 causes 3R. T causes i", "hypothesis": "Are Gct and i d-separated given {1, 3R}?", "label": "No"}
+{"premise": "OG causes NCR. D4X causes NCR. El causes OG. El causes D4X. El causes NCR. 7 causes OG. 7 causes El", "hypothesis": "Are 7 and El d-separated?", "label": "No"}
+{"premise": "2O causes O1U. 2O causes gC. b causes O1U. b causes 2O. b causes gC. b causes i. i causes gC", "hypothesis": "Are 2O and gC d-separated given {O1U, b}?", "label": "No"}
+{"premise": "gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO", "hypothesis": "Are WS and p d-separated given {IvO, gbg, kk}?", "label": "No"}
+{"premise": "O causes GB. u causes GB. u causes V. u causes s. V causes GB. V causes O. s causes GB", "hypothesis": "Are s and u d-separated given {GB, O}?", "label": "No"}
+{"premise": "kM causes 8. SX causes kZQ. u8 causes kM. u8 causes 8. u8 causes kZQ. 8 causes SX. 8 causes kZQ", "hypothesis": "Are 8 and u8 d-separated?", "label": "No"}
+{"premise": "2U causes 9. 2U causes Kw. xp causes 2U. xp causes 9. sr causes 9. sr causes Kw. Kw causes 9", "hypothesis": "Are 2U and 9 d-separated given {Kw}?", "label": "No"}
+{"premise": "M causes s. M causes RqE. fV causes s. fV causes 5e. s causes 5e. s causes RqE. RqE causes 5e", "hypothesis": "Are RqE and fV d-separated given {5e, s}?", "label": "No"}
+{"premise": "2pd causes GKj. 2pd causes FO. N4s causes FO. N4s causes oi. oi causes 2pd. oi causes GKj. oi causes FO", "hypothesis": "Are 2pd and FO d-separated given {N4s, oi}?", "label": "No"}
+{"premise": "P causes g. P causes d0v. g causes d0v. DxD causes P. DxD causes g. DxD causes d0v. 7Fr causes d0v", "hypothesis": "Are d0v and g d-separated given {7Fr}?", "label": "No"}
+{"premise": "qSE causes oj. WWq causes qSE. WWq causes oj. WWq causes h. k causes WWq. k causes oj. k causes h", "hypothesis": "Are oj and qSE d-separated given {h, k}?", "label": "No"}
+{"premise": "l4 causes n9. l4 causes 1. o causes l4. o causes n9. o causes 1. 1 causes a. a causes n9", "hypothesis": "Are 1 and n9 d-separated given {o}?", "label": "No"}
+{"premise": "i causes 7Ux. i causes X. i causes A. o causes 7Ux. o causes X. o causes A. A causes X", "hypothesis": "Are 7Ux and i d-separated given {A, X}?", "label": "No"}
+{"premise": "gZ causes z3U. gZ causes RQ. gZ causes qqF. j causes RQ. z3U causes RQ. qqF causes z3U. qqF causes RQ", "hypothesis": "Are gZ and j d-separated given {RQ, z3U}?", "label": "No"}
+{"premise": "G causes LS. G causes g. G causes b. 56 causes G. 56 causes LS. 56 causes b. b causes LS", "hypothesis": "Are LS and b d-separated given {56, g}?", "label": "No"}
+{"premise": "to causes ol. 7 causes to. 7 causes yy. 7 causes ol. yy causes g. ol causes g. ol causes yy", "hypothesis": "Are 7 and ol d-separated?", "label": "No"}
+{"premise": "BKH causes FA. R8u causes BKH. Pr causes BKH. Pr causes FA. Pr causes MSV. MSV causes BKH. MSV causes FA", "hypothesis": "Are Pr and R8u d-separated given {FA, MSV}?", "label": "No"}
+{"premise": "IUK causes k. IUK causes NN. IUK causes R. k causes Dg. NN causes k. NN causes Dg. R causes k", "hypothesis": "Are Dg and IUK d-separated given {R}?", "label": "No"}
+{"premise": "Owh causes ih. x causes Ho. x causes ih. O causes Owh. O causes x. O causes ih. ih causes Ho", "hypothesis": "Are Ho and O d-separated given {x}?", "label": "No"}
+{"premise": "w causes Wl. w causes HDy. w causes c. Wl causes c. HDy causes c. HeZ causes Wl. HeZ causes c", "hypothesis": "Are Wl and w d-separated?", "label": "No"}
+{"premise": "J causes skN. J causes 9. J causes dc. J causes CL. dc causes skN. CL causes skN. CL causes 9", "hypothesis": "Are J and dc d-separated given {9, skN}?", "label": "No"}
+{"premise": "iw causes H. rsN causes iw. rsN causes Bh. Bh causes iw. Bh causes H. W causes Bh. W causes H", "hypothesis": "Are H and W d-separated given {iw, rsN}?", "label": "No"}
+{"premise": "Zy causes pr. Zy causes 9. d causes vf. d causes Zy. d causes pr. d causes 9. 9 causes vf", "hypothesis": "Are 9 and pr d-separated given {d}?", "label": "No"}
+{"premise": "RPQ causes Y. vot causes Y. 0 causes vot. 0 causes J. 0 causes Y. J causes RPQ. J causes vot", "hypothesis": "Are 0 and J d-separated given {RPQ}?", "label": "No"}
+{"premise": "y causes 8K. l causes 8K. l causes u. l causes 4. u causes y. u causes 4. 4 causes 8K", "hypothesis": "Are l and y d-separated given {4, 8K}?", "label": "No"}
+{"premise": "gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G", "hypothesis": "Are M and t d-separated given {gL}?", "label": "No"}
+{"premise": "1 causes ARF. UX causes 1. UX causes ARF. Kp causes 1. Kp causes UX. DSS causes 1. DSS causes ARF", "hypothesis": "Are Kp and UX d-separated given {ARF, DSS}?", "label": "No"}
+{"premise": "2D7 causes hsT. 2D7 causes XpW. 2D7 causes 7Rq. hsT causes 7Rq. XpW causes hsT. XpW causes 7Rq. 9s6 causes 7Rq", "hypothesis": "Are 7Rq and hsT d-separated given {2D7, 9s6}?", "label": "No"}
+{"premise": "H causes 0. yk causes H. yk causes 2ei. yk causes 0. 2ei causes MN. 2ei causes 0. 0 causes MN", "hypothesis": "Are 0 and H d-separated given {MN}?", "label": "No"}
+{"premise": "TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i", "hypothesis": "Are 7 and HS8 d-separated?", "label": "No"}
+{"premise": "BKH causes FA. R8u causes BKH. Pr causes BKH. Pr causes FA. Pr causes MSV. MSV causes BKH. MSV causes FA", "hypothesis": "Are FA and MSV d-separated given {Pr}?", "label": "No"}
+{"premise": "R causes o5e. R causes 4. LR9 causes 4. LR9 causes y. o5e causes 4. y causes R. y causes o5e", "hypothesis": "Are 4 and o5e d-separated given {R}?", "label": "No"}
+{"premise": "3Z causes QPe. 3Z causes y. 3Z causes LYl. y causes QPe. F causes QPe. F causes y. F causes LYl", "hypothesis": "Are 3Z and QPe d-separated?", "label": "No"}
+{"premise": "hQ1 causes n. dt causes n. dn4 causes hQ1. dn4 causes dt. kVH causes dt. kVH causes n. kVH causes dn4", "hypothesis": "Are dt and hQ1 d-separated given {n}?", "label": "No"}
+{"premise": "6 causes q. 6 causes dQ. N causes wS. N causes q. N causes dQ. wS causes q. wS causes dQ", "hypothesis": "Are dQ and q d-separated given {6, N}?", "label": "No"}
+{"premise": "AF causes x. nFd causes x. IOO causes x. IOO causes nFd. sy causes AF. sy causes nFd. sy causes IOO", "hypothesis": "Are nFd and x d-separated given {AF, IOO}?", "label": "No"}
+{"premise": "SMK causes E. eA causes SMK. eA causes Ps. eA causes E. Ps causes SMK. Ps causes jnd. E causes jnd", "hypothesis": "Are E and eA d-separated given {jnd}?", "label": "No"}
+{"premise": "ALS causes e. ALS causes 6. ALS causes u7. tDE causes e. tDE causes 6. u7 causes e. u7 causes 6", "hypothesis": "Are e and tDE d-separated given {6, ALS, u7}?", "label": "No"}
+{"premise": "lpV causes j9. lpV causes Vr. lpV causes g. WV8 causes g. Vr causes WV8. Vr causes g. g causes j9", "hypothesis": "Are g and lpV d-separated?", "label": "No"}
+{"premise": "T causes Eg. e causes T. e causes ID. e causes 2EN. ID causes T. ID causes Eg. ID causes 2EN", "hypothesis": "Are 2EN and e d-separated given {Eg, ID, T}?", "label": "No"}
+{"premise": "R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S", "hypothesis": "Are R and Rc d-separated given {S, xR}?", "label": "No"}
+{"premise": "MD causes fs. MD causes Ol. fs causes c. 8F causes MD. 8F causes fs. 8F causes c. c causes Ol", "hypothesis": "Are Ol and c d-separated given {8F, MD, fs}?", "label": "No"}
+{"premise": "aMy causes KfX. aMy causes X. aMy causes o7. 5Yy causes KfX. 5Yy causes aMy. 5Yy causes o7. o7 causes X", "hypothesis": "Are 5Yy and X d-separated given {KfX, o7}?", "label": "No"}
+{"premise": "Ekz causes d4. PI causes Ekz. PI causes d4. PI causes w5y. PI causes 2A. w5y causes d4. 2A causes d4", "hypothesis": "Are d4 and w5y d-separated given {2A, Ekz, PI}?", "label": "No"}
+{"premise": "gbg causes IvO. kk causes gbg. kk causes p. WS causes gbg. WS causes kk. p causes gbg. p causes IvO", "hypothesis": "Are IvO and gbg d-separated given {kk, p}?", "label": "No"}
+{"premise": "MV causes w0H. MV causes 7LV. w0H causes W. 7LV causes w0H. 7LV causes W. U7N causes w0H. U7N causes W", "hypothesis": "Are W and w0H d-separated given {7LV}?", "label": "No"}
+{"premise": "8 causes 5w3. 8 causes rfV. 8 causes Qfs. 8 causes 7. Qfs causes rfV. Qfs causes 7. 7 causes rfV", "hypothesis": "Are 7 and Qfs d-separated given {5w3, 8, rfV}?", "label": "No"}
+{"premise": "O causes m. m6V causes O. m6V causes 2T. m6V causes dZ. m6V causes m. 2T causes O. 2T causes m", "hypothesis": "Are 2T and m6V d-separated given {m}?", "label": "No"}
+{"premise": "M causes hYt. voZ causes muP. voZ causes M. voZ causes N5p. hYt causes muP. N5p causes muP. N5p causes hYt", "hypothesis": "Are M and hYt d-separated?", "label": "No"}
+{"premise": "kti causes R. kti causes V. gu causes R. gu causes v. R causes v. R causes V. V causes v", "hypothesis": "Are V and kti d-separated?", "label": "No"}
+{"premise": "Re causes 5. Re causes b. dB causes 5. dB causes Re. jsg causes 5. jsg causes Re. jsg causes dB", "hypothesis": "Are 5 and dB d-separated given {Re, b}?", "label": "No"}
+{"premise": "R causes S. Rc causes R. Rc causes O. xR causes R. xR causes Rc. xR causes S. O causes S", "hypothesis": "Are Rc and xR d-separated given {R, S}?", "label": "No"}
+{"premise": "90 causes Jm. 90 causes S. 90 causes U5. Jm causes S. wh causes S. wh causes U5. U5 causes S", "hypothesis": "Are S and U5 d-separated given {Jm}?", "label": "No"}
+{"premise": "TzJ causes 7. HS8 causes TzJ. HS8 causes Y4i. HS8 causes yL7. yL7 causes 7. yL7 causes TzJ. yL7 causes Y4i", "hypothesis": "Are Y4i and yL7 d-separated given {HS8, TzJ}?", "label": "No"}
+{"premise": "rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l", "hypothesis": "Are ijn and rkJ d-separated given {l}?", "label": "No"}
+{"premise": "OTt causes di. di causes Y. d causes Y. d causes di. eH causes Y. eH causes di. eH causes d", "hypothesis": "Are OTt and Y d-separated?", "label": "No"}
+{"premise": "th causes toY. th causes t. lW causes toY. lW causes t. uk causes th. uk causes t. t causes toY", "hypothesis": "Are th and toY d-separated given {lW, uk}?", "label": "No"}
+{"premise": "l4 causes n9. l4 causes 1. o causes l4. o causes n9. o causes 1. 1 causes a. a causes n9", "hypothesis": "Are n9 and o d-separated?", "label": "No"}
+{"premise": "usv causes r4. usv causes Wz. Wz causes r4. Mj causes usv. Mj causes r4. Mj causes Wz. W causes r4", "hypothesis": "Are Wz and r4 d-separated?", "label": "No"}
+{"premise": "00 causes k. 00 causes yC0. 9 causes yC0. yC0 causes k. D causes k. D causes 9. D causes yC0", "hypothesis": "Are D and yC0 d-separated given {9}?", "label": "No"}
+{"premise": "rkJ causes l. e causes OGh. e causes rkJ. e causes ijn. e causes l. ijn causes OGh. ijn causes l", "hypothesis": "Are e and ijn d-separated given {OGh, l}?", "label": "No"}
+{"premise": "gL causes x. gL causes M. G causes t. x causes t. x causes M. M causes t. M causes G", "hypothesis": "Are t and x d-separated given {M, gL}?", "label": "No"}
+{"premise": "W causes kl. W causes zpc. STg causes kl. STg causes V. V causes kl. V causes W. V causes zpc", "hypothesis": "Are W and zpc d-separated given {STg}?", "label": "No"}
+{"premise": "Oao causes aOP. Oao causes g. Oao causes bKm. Oao causes X. aOP causes g. aOP causes X. bKm causes aOP", "hypothesis": "Are Oao and g d-separated given {X, bKm}?", "label": "No"}
+{"premise": "fH causes Nk. 9 causes fH. 9 causes o. 9 causes Nk. 9 causes O. o causes Nk. o causes O", "hypothesis": "Are 9 and fH d-separated given {Nk}?", "label": "No"}
+{"premise": "U causes 7z. U causes ZSn. U causes e. t9 causes 7z. 7z causes e. ZSn causes 7z. ZSn causes e", "hypothesis": "Are ZSn and e d-separated given {7z}?", "label": "No"}
+{"premise": "Re causes 5. Re causes b. dB causes 5. dB causes Re. jsg causes 5. jsg causes Re. jsg causes dB", "hypothesis": "Are Re and b d-separated given {dB, jsg}?", "label": "No"}
+{"premise": "T causes Eg. e causes T. e causes ID. e causes 2EN. ID causes T. ID causes Eg. ID causes 2EN", "hypothesis": "Are ID and T d-separated?", "label": "No"}
+{"premise": "fCb causes TFt. fCb causes k. w causes TFt. w causes fCb. w causes cww. w causes k. k causes cww", "hypothesis": "Are cww and w d-separated given {k}?", "label": "No"}
