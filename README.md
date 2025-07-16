@@ -2,7 +2,7 @@
 
 Teaching transformers to apply causal axioms, by training them on synthetic data constructed using causal rules and axioms like Transitivity and D-Separation! 
 
-Check out the paper: https://openreview.net/pdf?id=te30nmLaFf
+Check out the paper: https://openreview.net/pdf?id=AhebPqDOMI 
 
 ![image](https://github.com/user-attachments/assets/e1d503a1-9794-4f72-9959-5d49dc58be9c)
 
